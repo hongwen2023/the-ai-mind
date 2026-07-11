@@ -5,7 +5,7 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 1 Design Brief review
+**Current chapter:** Chapter 1 Draft v1.0 editorial review
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Design first, draft second, review always.
 
@@ -16,11 +16,11 @@ Prelude: Complete v1.0
   ↓
 Golden Chapter Standard
   ↓
-Chapter 1: Design Brief
+Chapter 1: Design Brief Approved
   ↓
-ChatGPT: Design Review
+Chapter 1: Author Draft v1.0
   ↓
-Chapter 1: Author Draft
+ChatGPT: Editorial Review
 ```
 
 ## Chapter Status
@@ -28,7 +28,7 @@ Chapter 1: Author Draft
 | Chapter | Topic | Status |
 |---:|---|---|
 | Prelude | 为什么学习 AI 需要一张地图？ | Complete v1.0; approved and canonical |
-| 01 | 为什么理解比记忆重要？ | Design Brief Draft v0.1; awaiting review |
+| 01 | 为什么理解比记忆重要？ | Design Brief approved; Draft v1.0 complete; awaiting editorial review |
 | 02-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
@@ -68,10 +68,11 @@ Chapter 1: Author Draft
 | Prelude v1.0 | `reviews/book1/prelude_review.md` | Major Revision | Draft v1.1 complete |
 | Prelude v1.1 | `reviews/book1/prelude_review_v1.1.md` | Minor Revision | Draft v1.2 complete |
 | Prelude v1.2 | `reviews/book1/prelude_review_v1.2.md` | Approved with Minor Revision | v1.3 polish complete; frozen as canonical v1.0 |
+| Chapter 01 Design | `reviews/book1/chapter01_design_review.md` | Approved | Draft v1.0 complete |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Review `books/book-1-discovering-intelligence/designs/chapter1_design_brief.md`. After approval, draft Chapter 1 using `docs/editorial/GOLDEN_CHAPTER_STANDARD.md` as the quality baseline.
+Review `books/book-1-discovering-intelligence/chapters/chapter-01.md` against the approved Design Brief and `docs/editorial/GOLDEN_CHAPTER_STANDARD.md`. Save the review as `reviews/book1/chapter01_review.md` before author revision begins.

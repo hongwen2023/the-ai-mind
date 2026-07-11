@@ -12,6 +12,15 @@
 | Alpha Generation | Alpha 生成 | 从信息和结构变化中形成具有超额收益潜力的可检验信号 | Prelude |
 | Portfolio Optimization | 组合优化 | 在收益、风险、相关性、容量与成本约束下分配投资权重 | Prelude |
 | Online Learning | 在线学习 | 随新数据持续到来而更新模型或信念的学习方式 | Prelude |
+| Familiarity | 熟悉感 | 再次看到材料时产生的识别感，但不保证能够主动回忆或使用 | Chapter 01 |
+| Recall | 回忆 | 在没有原材料提示时取回事实、步骤或公式的能力 | Chapter 01 |
+| Understanding | 理解 | 能够解释、预测、重建并迁移一个关系模型的能力 | Chapter 01 |
+| Transfer | 迁移 | 把已学关系用于不同输入、任务或领域的能力 | Chapter 01 |
+| Rule Compression | 规则压缩 | 用较少关系表示多个观察中共享的结构 | Chapter 01 |
+| Inductive Bias | 归纳偏置 | 在有限数据支持多种解释时，学习系统偏好某类规则的假设 | Chapter 01 |
+| Perturbation Test | 扰动测试 | 主动改变一个条件并在运行前预测后果，以检验因果理解 | Chapter 01 |
+| Driver Tree | 驱动因素树 | 把结果拆分为可分析、可预测和可证伪的底层驱动关系 | Chapter 01 |
+| Grokking | 顿悟式泛化 | 模型在训练集早已拟合后，测试泛化于更晚训练阶段显著出现的现象 | Chapter 01 |
 | Abstraction | 抽象 | 保留对任务重要的信息，隐藏无关细节 | Chapter 03 |
 | Representation | 表示 | 把现实对象转换成模型可以处理的形式 | Chapter 04 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
