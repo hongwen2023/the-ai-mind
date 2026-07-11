@@ -10,7 +10,19 @@
 
 ---
 
-## Dependency Card
+## Knowledge Graph · Dependency Card
+
+```text
+Relationship (Chapter 1)
+    ↓
+Generation (Chapter 2)
+    ↓
+Abstraction (Chapter 3)
+    ↓
+Representation (Chapter 4)
+    ↓
+Learning (Chapter 6 and Chapters 15–19)
+```
 
 ### Need Before
 
@@ -32,6 +44,21 @@ Global Pattern and Dynamic Behavior
 - Chapter 4：用表示选择哪些状态和关系对系统可见；
 - Chapters 13–14：简单神经网络层如何组合出复杂表达；
 - Part III：用更强证据重新讨论 Scaling 与 Emergence。
+
+## Book I Question
+
+**Book I 的问题：** 关系怎样逐步形成能够学习、推理与行动的智能系统？
+
+**本章的问题：** 简单规则怎样生成复杂行为？
+
+**本章的回答：**
+
+```text
+Local Rule + Iteration + Interaction + State
+  → Global Pattern and Dynamic Behavior
+```
+
+**下一个问题：** 如果不断生成的复杂性超过了逐项追踪的能力，我们怎样保留重要结构、隐藏无关细节？这将把我们带到 Chapter 3 的抽象。
 
 ## Learning Objectives
 
@@ -465,6 +492,28 @@ look for mechanism-level change
 设计一个玩具实验，展示离散成功率如何把连续能力变化显示成突然跃迁。再设计一个指标，减少这种视觉效果。
 
 配套 Assessment：[Chapter 2 Understanding Audit](../../../labs/book1/chapter02-understanding-audit.md)。
+
+## Mental Model Upgrade
+
+### Before
+
+```text
+Complex behavior
+  → complicated rules
+  → central design
+```
+
+### After
+
+```text
+State
+  + local rules
+  + interaction
+  + iteration
+  → possibly complex global behavior
+```
+
+这不是把“复杂”换成一句新的口号。真正的升级，是开始追问生成过程：局部部分能看到什么、怎样更新、怎样相互影响，以及历史如何通过状态进入下一步。能够指出这些机制、预测扰动结果并说明模型边界，才表示这个心智模型真正可用。
 
 ## Understanding Audit
 

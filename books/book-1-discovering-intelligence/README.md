@@ -26,6 +26,49 @@ At the end of Book I, the learner rewrites the definition in their own words,
 states what evidence would support it, and names one important limitation. The
 definition is a growing model, not a sentence to memorize.
 
+## Hidden Spine · A Working Ontology of Intelligence
+
+This is a curriculum map, not a claim that science has settled a final
+ontology of intelligence. Each chapter adds one layer and may later revise
+the relationships between layers.
+
+```text
+Relationship
+    ↓
+Generation
+    ↓
+Abstraction
+    ↓
+Representation
+    ↓
+Computation
+    ↓
+Learning
+    ↓
+Optimization
+    ↓
+Generalization
+    ↓
+Reasoning
+    ↓
+Agency
+```
+
+| Layer | First focus in Book I |
+|---|---|
+| Relationship | Chapter 1: understanding as connected, reusable knowledge |
+| Generation | Chapter 2: global behavior from local rules and interaction |
+| Abstraction | Chapter 3: hiding detail while preserving useful structure |
+| Representation | Chapter 4 and Chapters 11–12: making structure computable |
+| Computation | Chapter 5: transforming state through explicit operations |
+| Learning | Chapter 6 and Chapters 15–19: changing behavior through feedback |
+| Optimization | Chapter 17: choosing parameter updates that improve an objective |
+| Generalization | Chapter 7: succeeding beyond remembered examples |
+| Reasoning and Agency | Part III: composing learned representations into decisions and action |
+
+The spine is deliberately incomplete. Later books will thicken, challenge,
+and reconnect these ideas rather than merely repeat their first definitions.
+
 ## Table of Contents
 
 - [Prelude：为什么学习 AI 需要一张地图？](chapters/prelude.md) — Complete v1.0

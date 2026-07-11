@@ -8,6 +8,19 @@
 
 > **复杂行为可以来自简单规则的持续交互。**
 
+## Book I Question
+
+```text
+Relationship
+  → Generation
+  → Abstraction
+  → Representation
+  → Learning
+```
+
+Chapter 2 studies the second step: how local relationships generate global
+behavior. Chapter 3 asks how abstraction makes that complexity manageable.
+
 ## Notebook
 
 [Rule 90: Local Rules to Global Patterns](../../../notebooks/book1/chapter02_rule90.ipynb)
@@ -34,6 +47,18 @@ The Audit verifies Explain, Predict, Reconstruct, and Transfer separately.
 4. Finish Common Illusions and Research Corner.
 5. Complete the Understanding Audit without the chapter open.
 6. Repeat reconstruction after seven days.
+
+## Mental Model Upgrade
+
+```text
+Before: complex behavior requires complicated rules or central design.
+
+After:  state + local rules + interaction + iteration
+        can generate complex global behavior.
+```
+
+The upgrade is complete only when the learner can identify the generating
+process, predict a perturbation, and name where the model stops applying.
 
 ## Capability Milestone
 
