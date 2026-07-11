@@ -1,0 +1,7 @@
+# Local transfer bundles
+*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp

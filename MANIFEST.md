@@ -85,6 +85,15 @@ The full rules live in [CONSTITUTION.md](CONSTITUTION.md). The short version:
 - Every chapter must include Research Corner.
 - Every chapter should connect to the knowledge graph.
 
+## Documentation Map
+
+Project support documents live under [docs/](docs/README.md):
+
+- [docs/bootstrap/](docs/bootstrap/): Codex bootstrap and resume files.
+- [docs/author-bible/](docs/author-bible/): editorial and content quality standards.
+- [docs/operations/](docs/operations/): project operations, release, review, and maintenance notes.
+- [docs/handoff/](docs/handoff/): structured handoff notes for new work sessions.
+
 ## Definition of Done
 
 A chapter is not considered complete until these are done:
@@ -112,12 +121,14 @@ If you are a new AI assistant or contributor taking over this project:
 2. Read [STATUS.md](STATUS.md).
 3. Read [CONSTITUTION.md](CONSTITUTION.md).
 4. Read [DECISIONS.md](DECISIONS.md).
-5. Locate the current book and chapter from this manifest.
-6. Continue from the current chapter.
-7. Do not redesign the curriculum unless explicitly requested.
-8. Produce one complete chapter at a time.
-9. Commit after each completed chapter.
-10. Update `STATUS.md` before moving to the next chapter.
+5. Read [docs/bootstrap/CODEX_PROMPT.md](docs/bootstrap/CODEX_PROMPT.md).
+6. Read [docs/author-bible/AUTHOR_BIBLE.md](docs/author-bible/AUTHOR_BIBLE.md).
+7. Locate the current book and chapter from this manifest.
+8. Continue from the current chapter.
+9. Do not redesign the curriculum unless explicitly requested.
+10. Produce one complete chapter at a time.
+11. Commit after each completed chapter.
+12. Update `STATUS.md` before moving to the next chapter.
 
 ## Resume Prompt
 
@@ -130,6 +141,7 @@ Repository:
 https://github.com/hongwen2023/the-ai-mind
 
 Please first read MANIFEST.md, STATUS.md, CONSTITUTION.md, and DECISIONS.md.
+Then read docs/bootstrap/CODEX_PROMPT.md and docs/author-bible/AUTHOR_BIBLE.md.
 Continue from the Current Chapter.
 Do not redesign the architecture.
 Produce one complete chapter at a time.

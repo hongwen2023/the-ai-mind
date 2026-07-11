@@ -31,6 +31,19 @@ The root files define how this project runs:
 - [DECISIONS.md](DECISIONS.md): architecture decision records
 - [ROADMAP.md](ROADMAP.md): long-term milestones
 - [STYLE_GUIDE.md](STYLE_GUIDE.md): writing and formatting conventions
+- [docs/](docs/README.md): bootstrap pack, author bible, operations, and handoff notes
+
+## Codex / AI Resume Kit
+
+For a new Codex or ChatGPT session, read these in order:
+
+1. [MANIFEST.md](MANIFEST.md)
+2. [STATUS.md](STATUS.md)
+3. [CONSTITUTION.md](CONSTITUTION.md)
+4. [DECISIONS.md](DECISIONS.md)
+5. [docs/bootstrap/CODEX_PROMPT.md](docs/bootstrap/CODEX_PROMPT.md)
+6. [docs/author-bible/AUTHOR_BIBLE.md](docs/author-bible/AUTHOR_BIBLE.md)
+7. [docs/operations/PROJECT_OPERATIONS.md](docs/operations/PROJECT_OPERATIONS.md)
 
 ## 当前状态
 

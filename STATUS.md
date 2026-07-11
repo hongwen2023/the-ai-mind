@@ -49,6 +49,10 @@ Chapter 20: Book I Act II Review
 | DECISIONS.md | Present |
 | ROADMAP.md | Present |
 | STYLE_GUIDE.md | Present |
+| docs/bootstrap | Present |
+| docs/author-bible | Present |
+| docs/handoff | Present |
+| docs/operations | Present |
 
 ## Next Action
 
