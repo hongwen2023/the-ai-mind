@@ -62,7 +62,8 @@ After:  representation = observation boundary
 ```
 
 The upgrade is complete only when the learner can explain which distinctions
-the model can no longer recover and how encoding changes the task geometry.
+the model can no longer recover, how encoding changes the task geometry, and
+why a task-suitable representation may intentionally discard reality details.
 
 ## Capability Milestone
 

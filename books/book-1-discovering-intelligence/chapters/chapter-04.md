@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting Editor-in-Chief review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -203,6 +203,8 @@ Sun → [0, 0, 0, 0, 0, 0, 1]
 向量距离不是从现实中自动掉下来的。它由字段、尺度、编码和归一化共同定义。
 
 邮政编码 `10001` 与 `10002` 数值接近，不证明地区在经济结构上相似。公司增长率从 10% 到 20% 与市值从 10 亿到 20 亿都增加“10”，却不是同一种变化。
+
+RGB 图像与 grayscale 图像提供另一个极简反例。灰度表示丢掉颜色：对识别文字形状可能是合理选择，对判断交通灯状态却可能是致命错误。信息损失本身既不正确也不错误；任务决定被丢掉的差异是否重要。
 
 ### Operation · 什么变得容易？
 
@@ -631,6 +633,8 @@ Representation
 
 ## Master Insight
 
+> **表示不是越接近现实越好，而是越适合目标任务越好。**
+
 > **模型能学到什么，首先取决于表示让它看见什么、区分什么，以及把什么关系变成了可计算的几何。**
 
 ## Bridge to Chapter 5
@@ -640,6 +644,8 @@ Representation
 像素不会自己识别物体，Token 不会自己形成句义，公司向量也不会自己产生预测。系统需要一组明确步骤，把输入表示变成新的中间状态和输出。
 
 计算不会创造进入表示之前不存在的信息。它只能选择、组合和重新组织已经进入系统的内容，并在这些内容与规则允许的范围内产生新结果。
+
+> **计算的力量来自重新组织关系，而不是凭空产生关系。**
 
 于是下一个问题出现：
 
