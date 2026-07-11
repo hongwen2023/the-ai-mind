@@ -79,7 +79,9 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 03：为什么抽象是人类最重要的工具之一？](chapters/chapter-03.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 03 Design Brief](designs/chapter3_design_brief.md)
   - [Chapter 03 Learning Package](learning-packages/chapter03.md)
-- Chapter 04–10 — Rewrite from source material; planned
+- Chapter 04：为什么世界需要表示（Representation）？ — Design Brief complete; awaiting editorial review
+  - [Chapter 04 Design Brief](designs/chapter4_design_brief.md)
+- Chapter 05–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
