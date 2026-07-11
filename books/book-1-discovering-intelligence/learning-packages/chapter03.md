@@ -62,7 +62,9 @@ After:  abstraction = task-specific contract
 ```
 
 The upgrade is complete only when the learner can change the abstraction when
-the task changes and predict which hidden distinction will matter.
+the task changes, choose an appropriate abstraction level, and predict which
+hidden distinction will matter. The goal is reliable reasoning at lower cost,
+not the highest possible abstraction layer.
 
 ## Capability Milestone
 

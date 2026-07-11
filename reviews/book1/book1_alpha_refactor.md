@@ -44,6 +44,13 @@ that later book-level consistency work is forbidden.
 - [ ] Record only consistency gaps discovered during canonical chapter production.
 - [ ] Do not pause new chapter production to retrofit earlier chapters.
 
+### Chapter 3
+
+- [x] Book I Question included.
+- [x] Knowledge Graph · Dependency Card included.
+- [x] Mental Model Upgrade included.
+- [ ] Recheck `Contract` terminology against Representation and Computation chapters.
+
 ## Alpha Consistency Checklist
 
 - [ ] Book I Question appears consistently and advances the hidden spine.
