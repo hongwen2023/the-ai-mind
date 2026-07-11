@@ -42,32 +42,24 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current version | v0.1 |
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
-| Current sprint | Sprint 1 · Book I Act II |
-| Current chapter | Chapter 18 |
-| Last completed content | Chapter 17 complete v1.0 |
+| Current sprint | Book I Prelude and Act I rewrite |
+| Current chapter | Prelude editorial review |
+| Last completed content | Prelude author draft v1.0 |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
 ## Current Learning Focus
 
 ```text
-Vector
+Prelude: build the map
   ↓
-Matrix
+Chapter 1-10: rewrite from source material
   ↓
-Linear Transformation
+Editorial review
   ↓
-Nonlinearity
+Author revision
   ↓
-Loss Function
-  ↓
-Optimization
-  ↓
-Chain Rule
-  ↓
-Backpropagation
-  ↓
-Autograd / micrograd
+Approval
 ```
 
 ## Constitution Summary
@@ -155,8 +147,8 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Complete `books/book-1-discovering-intelligence/chapters/chapter-18.md`:
+Submit `books/book-1-discovering-intelligence/chapters/prelude.md` for independent editorial review:
 
-> Chapter 18: 为什么链式法则是深度学习的核心？
+> Prelude: 为什么学习 AI 需要一张地图？
 
-Then update `STATUS.md` and continue to Chapter 19.
+After review, revise the Prelude before drafting Chapter 1.

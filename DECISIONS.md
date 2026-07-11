@@ -134,3 +134,20 @@ Editorial reviews are preserved under `reviews/`.
 ### Rationale
 
 The project is now a long-term curriculum rather than a one-shot document. Preserving review reports keeps technical, pedagogical, and narrative decisions visible. It also prevents divergence between chat drafts, local files, and GitHub.
+
+## ADR-0010: Add an Unnumbered Prelude and Rewrite Chapters 1-10
+
+**Date:** 2026-07-11
+**Status:** Accepted
+
+### Decision
+
+Book I begins with an unnumbered Prelude titled “为什么学习 AI 需要一张地图？”. The Prelude is the shared mental-model entrance to all four books and does not count toward Book I's frozen 30 chapters.
+
+Historical Journey 00-10 drafts are retained as source material only. Chapters 1-10 will be rewritten into canonical author drafts, reviewed by the Editor-in-Chief, revised by the Author, and approved before publication.
+
+### Rationale
+
+The historical drafts preserve useful ideas but predate the current Author Bible, chapter template, and editorial pipeline. Rewriting from source material produces a coherent voice and structure without discarding the strongest original insights.
+
+Chapter 14-16 provide structural references, not the final quality ceiling. New canonical drafts target the project's 9.5/10 publication standard.

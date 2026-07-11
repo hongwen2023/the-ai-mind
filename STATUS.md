@@ -4,28 +4,31 @@
 **Repository:** https://github.com/hongwen2023/the-ai-mind
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
-**Current sprint:** Sprint 1 · Book I Act II
-**Current chapter:** Chapter 18
+**Current sprint:** Book I Prelude and Act I rewrite
+**Current chapter:** Prelude editorial review
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Complete first, refine second.
 
 ## Current Focus
 
 ```text
-Chapter 16: Editorial Review / Revision Pilot
+Prelude: Author Draft v1.0
   ↓
-Chapter 18: Chain Rule
+ChatGPT: Editorial Review
   ↓
-Chapter 19: Backpropagation
+Codex: Revision
   ↓
-Chapter 20: Book I Act II Review
+Approval
+  ↓
+Chapter 1: Author Draft
 ```
 
 ## Chapter Status
 
 | Chapter | Topic | Status |
 |---:|---|---|
-| 00-10 | AI 思维与数学语言 | Draft v1.0 |
+| Prelude | 为什么学习 AI 需要一张地图？ | Author Draft v1.0; awaiting review |
+| 01-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
 | 13 | 线性变换 | Complete v1.0 |
@@ -63,6 +66,8 @@ Chapter 20: Book I Act II Review
 |---:|---|---|---|
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
+The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
+
 ## Next Action
 
-Revise `books/book-1-discovering-intelligence/chapters/chapter-16.md` to v1.1 according to `reviews/book1/chapter16_review.md`, then update `reviews/book1/chapter16_revision_log.md`.
+Send `books/book-1-discovering-intelligence/chapters/prelude.md` to the Editor-in-Chief for an independent editorial review. Preserve the review under `reviews/book1/prelude_review.md`, then revise before starting Chapter 1.

@@ -2,17 +2,8 @@
 
 ## Table of Contents
 
-- [Chapter 00](chapters/chapter-00.md)
-- [Chapter 01](chapters/chapter-01.md)
-- [Chapter 02](chapters/chapter-02.md)
-- [Chapter 03](chapters/chapter-03.md)
-- [Chapter 04](chapters/chapter-04.md)
-- [Chapter 05](chapters/chapter-05.md)
-- [Chapter 06](chapters/chapter-06.md)
-- [Chapter 07](chapters/chapter-07.md)
-- [Chapter 08](chapters/chapter-08.md)
-- [Chapter 09](chapters/chapter-09.md)
-- [Chapter 10](chapters/chapter-10.md)
+- [Prelude：为什么学习 AI 需要一张地图？](chapters/prelude.md) — Author draft; awaiting editorial review
+- Chapter 01–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)

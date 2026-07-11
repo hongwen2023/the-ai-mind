@@ -36,6 +36,16 @@ Thirty chapters provide a balanced progression:
 
 The chapter count is frozen for Book I v1.x to preserve references.
 
+## Why There Is an Unnumbered Prelude
+
+The Prelude is the shared entrance to all four books. It builds the
+learner's first mental map and explains why the curriculum moves from
+intuition to mathematics, implementation, engineering, and research.
+
+It is not Chapter 0 and does not alter Book I's frozen count. Historical
+Journey 00 material may inform it, but the canonical Prelude is rewritten
+under the current Author / Editor workflow.
+
 ## Layer Responsibilities
 
 Governance/
