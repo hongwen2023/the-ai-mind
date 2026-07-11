@@ -5,14 +5,14 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Prelude editorial review
+**Current chapter:** Prelude Draft v1.1 editorial review
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Complete first, refine second.
 
 ## Current Focus
 
 ```text
-Prelude: Author Draft v1.0
+Prelude: Author Draft v1.1
   ↓
 ChatGPT: Editorial Review
   ↓
@@ -27,7 +27,7 @@ Chapter 1: Author Draft
 
 | Chapter | Topic | Status |
 |---:|---|---|
-| Prelude | 为什么学习 AI 需要一张地图？ | Author Draft v1.0; awaiting review |
+| Prelude | 为什么学习 AI 需要一张地图？ | Author Draft v1.1; awaiting review |
 | 01-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
@@ -64,10 +64,11 @@ Chapter 1: Author Draft
 
 | Chapter | Review | Decision | Revision |
 |---:|---|---|---|
+| Prelude | `reviews/book1/prelude_review.md` | Major Revision | Draft v1.1 complete; pending re-review |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Send `books/book-1-discovering-intelligence/chapters/prelude.md` to the Editor-in-Chief for an independent editorial review. Preserve the review under `reviews/book1/prelude_review.md`, then revise before starting Chapter 1.
+Send `books/book-1-discovering-intelligence/chapters/prelude.md` Draft v1.1 to the Editor-in-Chief for re-review. After approval, add the requested figures, glossary entries, and learning artifacts before starting Chapter 1.

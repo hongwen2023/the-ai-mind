@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Prelude：为什么学习 AI 需要一张地图？](chapters/prelude.md) — Author draft; awaiting editorial review
+- [Prelude：为什么学习 AI 需要一张地图？](chapters/prelude.md) — Author Draft v1.1; awaiting editorial review
 - Chapter 01–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
