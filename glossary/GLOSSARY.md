@@ -47,6 +47,11 @@
 | Control Flow | 控制流 | 决定计算步骤执行顺序、分支与重复方式的结构 | Chapter 05 |
 | Execution Trace | 执行轨迹 | 记录一次计算中输入、中间状态、规则选择与输出的序列 | Chapter 05 |
 | Data Lineage | 数据血缘 | 从结果追溯数据来源、版本、变换与中间依赖的记录 | Chapter 05 |
+| Learning | 学习 | 让经验反馈通过归因、更新与保留改变未来行为的过程 | Chapter 06 |
+| Credit Assignment | 信用分配 | 判断结果应归因到哪些动作、状态或参数以及归因程度的问题 | Chapter 06 |
+| Update Rule | 更新规则 | 把评价信号和经验转换为新参数或新内部状态的机制 | Chapter 06 |
+| Retention | 保留 | 让更新后的状态跨经验进入未来计算 | Chapter 06 |
+| Reward Hacking | 奖励投机 | 系统提高代理奖励却偏离设计者真实目标的行为 | Chapter 06 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
 | Matrix | 矩阵 | 描述空间或表示如何变化的规则 | Chapter 12 |
 | Linear Transformation | 线性变换 | 用结构化、可组合的方式把一种表示变成另一种表示 | Chapter 13 |
