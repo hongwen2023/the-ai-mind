@@ -52,6 +52,12 @@
 | Update Rule | 更新规则 | 把评价信号和经验转换为新参数或新内部状态的机制 | Chapter 06 |
 | Retention | 保留 | 让更新后的状态跨经验进入未来计算 | Chapter 06 |
 | Reward Hacking | 奖励投机 | 系统提高代理奖励却偏离设计者真实目标的行为 | Chapter 06 |
+| Generalization | 泛化 | 学到的关系在明确的未见情境边界内继续产生可靠结果的能力主张 | Chapter 07 |
+| Holdout Boundary | 留出边界 | 把未参与更新与模型选择的数据隔离为独立证据的边界 | Chapter 07 |
+| Generalization Gap | 泛化差距 | 测试误差与训练误差之间的经验差值 | Chapter 07 |
+| Shortcut Learning | 捷径学习 | 利用测试中暂时有效但部署变化后失效的代理关系 | Chapter 07 |
+| Distribution Shift | 分布偏移 | 训练与使用环境的数据生成分布发生变化 | Chapter 07 |
+| Data Leakage | 数据泄漏 | 测试或未来信息进入训练、特征构造或模型选择 | Chapter 07 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
 | Matrix | 矩阵 | 描述空间或表示如何变化的规则 | Chapter 12 |
 | Linear Transformation | 线性变换 | 用结构化、可组合的方式把一种表示变成另一种表示 | Chapter 13 |
