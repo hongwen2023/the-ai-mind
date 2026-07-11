@@ -26,7 +26,9 @@ New contributor or AI assistant? Start with [MANIFEST.md](MANIFEST.md).
 The root files define how this project runs:
 
 - [MANIFEST.md](MANIFEST.md): project bootstrap, current state, resume protocol, and next action
+- [ARCHITECTURE.md](ARCHITECTURE.md): project structure and long-term architecture
 - [CONSTITUTION.md](CONSTITUTION.md): non-negotiable teaching and writing rules
+- [AI_COLLABORATION.md](AI_COLLABORATION.md): protocol for AI assistants and Codex sessions
 - [STATUS.md](STATUS.md): current progress and sprint status
 - [DECISIONS.md](DECISIONS.md): architecture decision records
 - [ROADMAP.md](ROADMAP.md): long-term milestones
@@ -41,9 +43,11 @@ For a new Codex or ChatGPT session, read these in order:
 2. [STATUS.md](STATUS.md)
 3. [CONSTITUTION.md](CONSTITUTION.md)
 4. [DECISIONS.md](DECISIONS.md)
-5. [docs/bootstrap/CODEX_PROMPT.md](docs/bootstrap/CODEX_PROMPT.md)
-6. [docs/author-bible/AUTHOR_BIBLE.md](docs/author-bible/AUTHOR_BIBLE.md)
-7. [docs/operations/PROJECT_OPERATIONS.md](docs/operations/PROJECT_OPERATIONS.md)
+5. [ARCHITECTURE.md](ARCHITECTURE.md)
+6. [AI_COLLABORATION.md](AI_COLLABORATION.md)
+7. [docs/bootstrap/CODEX_PROMPT.md](docs/bootstrap/CODEX_PROMPT.md)
+8. [docs/author-bible/AUTHOR_BIBLE.md](docs/author-bible/AUTHOR_BIBLE.md)
+9. [docs/operations/PROJECT_OPERATIONS.md](docs/operations/PROJECT_OPERATIONS.md)
 
 ## 当前状态
 

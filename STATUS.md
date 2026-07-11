@@ -44,7 +44,9 @@ Chapter 20: Book I Act II Review
 |---|---|
 | README.md | Present; updated for foundation |
 | MANIFEST.md | Present |
+| ARCHITECTURE.md | Present |
 | CONSTITUTION.md | Present |
+| AI_COLLABORATION.md | Present |
 | STATUS.md | Present |
 | DECISIONS.md | Present |
 | ROADMAP.md | Present |

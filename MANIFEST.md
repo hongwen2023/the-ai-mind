@@ -121,14 +121,16 @@ If you are a new AI assistant or contributor taking over this project:
 2. Read [STATUS.md](STATUS.md).
 3. Read [CONSTITUTION.md](CONSTITUTION.md).
 4. Read [DECISIONS.md](DECISIONS.md).
-5. Read [docs/bootstrap/CODEX_PROMPT.md](docs/bootstrap/CODEX_PROMPT.md).
-6. Read [docs/author-bible/AUTHOR_BIBLE.md](docs/author-bible/AUTHOR_BIBLE.md).
-7. Locate the current book and chapter from this manifest.
-8. Continue from the current chapter.
-9. Do not redesign the curriculum unless explicitly requested.
-10. Produce one complete chapter at a time.
-11. Commit after each completed chapter.
-12. Update `STATUS.md` before moving to the next chapter.
+5. Read [ARCHITECTURE.md](ARCHITECTURE.md).
+6. Read [AI_COLLABORATION.md](AI_COLLABORATION.md).
+7. Read [docs/bootstrap/CODEX_PROMPT.md](docs/bootstrap/CODEX_PROMPT.md).
+8. Read [docs/author-bible/AUTHOR_BIBLE.md](docs/author-bible/AUTHOR_BIBLE.md).
+9. Locate the current book and chapter from this manifest.
+10. Continue from the current chapter.
+11. Do not redesign the curriculum unless explicitly requested.
+12. Produce one complete chapter at a time.
+13. Commit after each completed chapter.
+14. Update `STATUS.md` before moving to the next chapter.
 
 ## Resume Prompt
 
@@ -141,6 +143,7 @@ Repository:
 https://github.com/hongwen2023/the-ai-mind
 
 Please first read MANIFEST.md, STATUS.md, CONSTITUTION.md, and DECISIONS.md.
+Also read ARCHITECTURE.md and AI_COLLABORATION.md.
 Then read docs/bootstrap/CODEX_PROMPT.md and docs/author-bible/AUTHOR_BIBLE.md.
 Continue from the Current Chapter.
 Do not redesign the architecture.

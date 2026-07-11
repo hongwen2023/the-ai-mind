@@ -52,6 +52,8 @@ Start with:
 
 1. [../MANIFEST.md](../MANIFEST.md)
 2. [../STATUS.md](../STATUS.md)
-3. [bootstrap/CODEX_PROMPT.md](bootstrap/CODEX_PROMPT.md)
-4. [author-bible/AUTHOR_BIBLE.md](author-bible/AUTHOR_BIBLE.md)
-5. [operations/PROJECT_OPERATIONS.md](operations/PROJECT_OPERATIONS.md)
+3. [../ARCHITECTURE.md](../ARCHITECTURE.md)
+4. [../AI_COLLABORATION.md](../AI_COLLABORATION.md)
+5. [bootstrap/CODEX_PROMPT.md](bootstrap/CODEX_PROMPT.md)
+6. [author-bible/AUTHOR_BIBLE.md](author-bible/AUTHOR_BIBLE.md)
+7. [operations/PROJECT_OPERATIONS.md](operations/PROJECT_OPERATIONS.md)
