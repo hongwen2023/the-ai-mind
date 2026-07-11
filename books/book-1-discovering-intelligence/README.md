@@ -88,7 +88,9 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 06：为什么机器能够学习？](chapters/chapter-06.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 06 Design Brief](designs/chapter6_design_brief.md)
   - [Chapter 06 Learning Package](learning-packages/chapter06.md)
-- Chapter 07–10 — Rewrite from source material; planned
+- Chapter 07：为什么好的模型能够举一反三？ — Design Brief complete; awaiting editorial review
+  - [Chapter 07 Design Brief](designs/chapter7_design_brief.md)
+- Chapter 08–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
