@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Mathematical Translation Audit</title>
+  <desc id="desc">Meaning flows through objects, relations, operations, assumptions, quantities, tests, and boundaries.</desc>
+  <rect width="1200" height="500" fill="#f7f8f5"/>
+  <text x="600" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17212b">Mathematical Translation Audit</text>
+  <text x="600" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#53616d">Meaning comes before symbols.</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g fill="#fff" stroke="#273746" stroke-width="2">
+      <rect x="34" y="160" width="140" height="82" rx="6"/><rect x="198" y="160" width="140" height="82" rx="6"/>
+      <rect x="362" y="160" width="140" height="82" rx="6"/><rect x="526" y="160" width="140" height="82" rx="6"/>
+      <rect x="690" y="160" width="140" height="82" rx="6"/><rect x="854" y="160" width="140" height="82" rx="6"/>
+      <rect x="1018" y="160" width="148" height="82" rx="6"/>
+    </g>
+    <g font-size="18" font-weight="700" fill="#17212b">
+      <text x="104" y="207">Object</text><text x="268" y="207">Relation</text><text x="432" y="207">Operation</text>
+      <text x="596" y="207">Assumption</text><text x="760" y="207">Quantity</text><text x="924" y="207">Test</text><text x="1092" y="207">Boundary</text>
+    </g>
+  </g>
+  <g stroke="#c84630" stroke-width="3" fill="#c84630">
+    <path d="M174 201 H193"/><path d="M338 201 H357"/><path d="M502 201 H521"/><path d="M666 201 H685"/><path d="M830 201 H849"/><path d="M994 201 H1013"/>
+    <path d="M193 201 l-9 -6 v12 z"/><path d="M357 201 l-9 -6 v12 z"/><path d="M521 201 l-9 -6 v12 z"/>
+    <path d="M685 201 l-9 -6 v12 z"/><path d="M849 201 l-9 -6 v12 z"/><path d="M1013 201 l-9 -6 v12 z"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="220" y="320" width="760" height="100" rx="6" fill="#e9f2ef" stroke="#287a78" stroke-width="2"/>
+    <text x="600" y="358" font-size="20" font-weight="700" fill="#287a78">Three fast checks</text>
+    <text x="600" y="394" font-size="18" fill="#17212b">Units · Limiting Case · Perturbation</text>
+  </g>
+</svg>

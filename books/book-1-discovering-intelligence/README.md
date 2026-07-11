@@ -97,8 +97,9 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 09：第一幕复盘——构建第一张 AI 思维地图](chapters/chapter-09.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 09 Design Brief](designs/chapter9_design_brief.md)
   - [Chapter 09 Learning Package](learning-packages/chapter09.md)
-- Chapter 10 — Design Brief complete; awaiting editorial review
+- [Chapter 10：为什么数学是智能的语言？](chapters/chapter-10.md) — Draft v1.0; awaiting editorial review
   - [Chapter 10 Design Brief](designs/chapter10_design_brief.md)
+  - [Chapter 10 Learning Package](learning-packages/chapter10.md)
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
