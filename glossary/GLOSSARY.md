@@ -42,6 +42,11 @@
 | Representation Collision | 表示碰撞 | 两个任务相关的不同观察被编码成同一表示 | Chapter 04 |
 | One-hot Encoding | 独热编码 | 用一个激活位置和其余零位置区分离散类别的表示方法 | Chapter 04 |
 | Cyclical Encoding | 周期编码 | 把周期变量映射到圆上以保留首尾邻近关系的表示方法 | Chapter 04 |
+| Computation | 计算 | 按规则、顺序与资源约束把输入表示和当前状态变成新状态的可执行过程 | Chapter 05 |
+| State Transition | 状态转移 | 当前状态与输入经过规则后形成下一状态的变化 | Chapter 05 |
+| Control Flow | 控制流 | 决定计算步骤执行顺序、分支与重复方式的结构 | Chapter 05 |
+| Execution Trace | 执行轨迹 | 记录一次计算中输入、中间状态、规则选择与输出的序列 | Chapter 05 |
+| Data Lineage | 数据血缘 | 从结果追溯数据来源、版本、变换与中间依赖的记录 | Chapter 05 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
 | Matrix | 矩阵 | 描述空间或表示如何变化的规则 | Chapter 12 |
 | Linear Transformation | 线性变换 | 用结构化、可组合的方式把一种表示变成另一种表示 | Chapter 13 |

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="620" viewBox="0 0 1280 620" role="img" aria-labelledby="title desc">
+  <title id="title">A computation trace links inputs, states, rules, and outputs</title>
+  <desc id="desc">Three input events transform state step by step while a trace records every transition.</desc>
+  <rect width="1280" height="620" fill="#f7f8f5"/>
+  <style>text{font-family:Arial,"Microsoft YaHei",sans-serif;fill:#17211d}.title{font-size:32px;font-weight:700}.label{font-size:21px;font-weight:700}.body{font-size:17px}.state{fill:#fff;stroke:#29463a;stroke-width:2;rx:6}.rule{fill:#dcebe4;stroke:#2c6b52;stroke-width:2;rx:6}.trace{fill:#efe2d8;stroke:#8a5a44;stroke-width:2;rx:6}.line{stroke:#486157;stroke-width:3;fill:none;marker-end:url(#a)}</style>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#486157"/></marker></defs>
+  <text x="640" y="52" text-anchor="middle" class="title">State Transition Trace</text>
+  <rect x="45" y="175" width="210" height="110" class="state"/><text x="150" y="220" text-anchor="middle" class="label">s₀</text><text x="150" y="255" text-anchor="middle" class="body">red=0, blue=0</text>
+  <path d="M255 230 L340 230" class="line"/><rect x="340" y="155" width="200" height="150" class="rule"/><text x="440" y="205" text-anchor="middle" class="label">Input: red</text><text x="440" y="245" text-anchor="middle" class="body">Rule: red + 1</text>
+  <path d="M540 230 L625 230" class="line"/><rect x="625" y="175" width="210" height="110" class="state"/><text x="730" y="220" text-anchor="middle" class="label">s₁</text><text x="730" y="255" text-anchor="middle" class="body">red=1, blue=0</text>
+  <path d="M835 230 L920 230" class="line"/><rect x="920" y="155" width="200" height="150" class="rule"/><text x="1020" y="205" text-anchor="middle" class="label">Input: blue</text><text x="1020" y="245" text-anchor="middle" class="body">Rule: blue + 1</text>
+  <path d="M1120 230 L1190 230" class="line"/><text x="1190" y="215" class="label">s₂</text><text x="1190" y="250" class="body">(1,1)</text>
+  <rect x="210" y="400" width="860" height="115" class="trace"/><text x="640" y="440" text-anchor="middle" class="label">Trace</text><text x="640" y="477" text-anchor="middle" class="body">每一步记录 Input、State Before、Rule、State After 与首个分歧位置</text>
+</svg>
