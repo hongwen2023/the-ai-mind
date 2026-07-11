@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 8 Draft v1.0 editorial review |
-| Last completed content | Chapter 8 Author Draft v1.0 and Learning Package |
+| Current chapter | Chapter 9 Design Brief |
+| Last completed content | Chapter 8 canonical v1.0 and Learning Package |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -77,9 +77,8 @@ Chapter 7: Design Brief
   ↓
 Chapter 7: canonical v1.0
   ↓
-Chapter 8: Design Brief approved
-  → Chapter 8: Author Draft v1.0
-  → Chapter 8: awaiting editorial review
+Chapter 8: canonical v1.0
+  → Chapter 9: Design Brief
 ```
 
 ## Constitution Summary
@@ -167,7 +166,6 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Ask the Editor-in-Chief to review Chapter 8 Draft v1.0, its Learning Package,
-Notebook, figure, and Understanding Audit. Save the decision as
-`reviews/book1/chapter08_review.md`. Do not mark Chapter 8 canonical until the
-editorial decision and required revision are complete.
+Create the Chapter 9 Design Brief as a Book I-level Understanding Audit. It
+must reconstruct the relationship map from Chapters 1-8 rather than introduce
+a new concept. Do not draft Chapter 9 until the Design Brief is approved.

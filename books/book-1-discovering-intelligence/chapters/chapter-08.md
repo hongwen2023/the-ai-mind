@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting editorial review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -291,6 +291,10 @@ Observation
 
 更强检验：区分结果复现、方法复现与机制解释。
 
+### “实验可重复，所以解释已经被证明”
+
+更强检验：重复结果只能说明现象在给定条件下稳定；还要用竞争解释和区分性干预检验机制。
+
 ### “更多引用，所以证据更强”
 
 更强检验：检查引用是否独立、是否检验同一主张，以及是否共享数据和假设。
@@ -371,6 +375,8 @@ Research = observation
 ## Master Insight
 
 > **研究不是把一个故事讲得越来越完整，而是让多个故事在证据面前承担不同风险，并诚实更新我们仍然不知道什么。**
+
+> **未知不是研究失败，而是下一轮问题的起点。**
 
 ## Bridge to Chapter 9
 

@@ -32,10 +32,11 @@ After:  research = alternatives + discriminating predictions
         + controlled evidence + uncertainty + belief revision.
 ```
 
+未知不是研究失败。一个可靠的 Negative Result 会缩小假设空间，并为下一轮问题提供更清晰的起点。实验可重复也不等于机制解释已经被证明。
+
 ## Capability Milestone
 
 - [ ] **Explain** Observation、Hypothesis、Claim 与 Evidence；
 - [ ] **Predict** 让竞争解释分离的条件；
 - [ ] **Build** 带 Research Trace 的干预实验；
 - [ ] **Read** 论文或投资主张中的替代解释与证据边界。
-
