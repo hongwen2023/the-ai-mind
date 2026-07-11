@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">One reality can support different abstractions</title>
+  <desc id="desc">A city branches into transit, flood, and district abstractions, each preserving different relationships for a different task.</desc>
+  <rect width="1200" height="680" fill="#f7f8f5"/>
+  <style>
+    text { font-family: Arial, "Microsoft YaHei", sans-serif; fill: #17211d; }
+    .title { font-size: 34px; font-weight: 700; }
+    .label { font-size: 24px; font-weight: 700; }
+    .body { font-size: 19px; }
+    .box { fill: #ffffff; stroke: #263f35; stroke-width: 2; rx: 6; }
+    .accent1 { fill: #dcebe4; }
+    .accent2 { fill: #e7e2ca; }
+    .accent3 { fill: #dce6ef; }
+    .line { stroke: #486157; stroke-width: 3; fill: none; }
+  </style>
+  <text x="600" y="58" text-anchor="middle" class="title">同一现实，不同任务，不同抽象</text>
+  <rect x="455" y="95" width="290" height="110" class="box"/>
+  <text x="600" y="140" text-anchor="middle" class="label">真实城市</text>
+  <text x="600" y="174" text-anchor="middle" class="body">道路、海拔、站点、人口、边界……</text>
+  <path d="M600 205 L600 255 M600 255 L200 315 M600 255 L600 315 M600 255 L1000 315" class="line"/>
+  <rect x="50" y="315" width="300" height="230" class="box accent1"/>
+  <text x="200" y="360" text-anchor="middle" class="label">通勤抽象</text>
+  <text x="200" y="405" text-anchor="middle" class="body">保留：站点、换乘、时间</text>
+  <text x="200" y="440" text-anchor="middle" class="body">隐藏：海拔、学区、建筑材料</text>
+  <text x="200" y="495" text-anchor="middle" class="body">任务：到达目的地</text>
+  <rect x="450" y="315" width="300" height="230" class="box accent2"/>
+  <text x="600" y="360" text-anchor="middle" class="label">防洪抽象</text>
+  <text x="600" y="405" text-anchor="middle" class="body">保留：海拔、河道、排水</text>
+  <text x="600" y="440" text-anchor="middle" class="body">隐藏：地铁票价、商店名称</text>
+  <text x="600" y="495" text-anchor="middle" class="body">任务：判断淹水风险</text>
+  <rect x="850" y="315" width="300" height="230" class="box accent3"/>
+  <text x="1000" y="360" text-anchor="middle" class="label">行政抽象</text>
+  <text x="1000" y="405" text-anchor="middle" class="body">保留：辖区、人口、服务边界</text>
+  <text x="1000" y="440" text-anchor="middle" class="body">隐藏：轨道曲线、坡度</text>
+  <text x="1000" y="495" text-anchor="middle" class="body">任务：配置公共资源</text>
+  <text x="600" y="615" text-anchor="middle" class="label">抽象没有脱离任务的统一最优解</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Abstraction contract isolates replaceable implementations</title>
+  <desc id="desc">A caller depends on an interface and invariant while two different implementations remain hidden behind the boundary.</desc>
+  <rect width="1200" height="650" fill="#f7f8f5"/>
+  <style>
+    text { font-family: Arial, "Microsoft YaHei", sans-serif; fill: #17211d; }
+    .title { font-size: 34px; font-weight: 700; }
+    .label { font-size: 25px; font-weight: 700; }
+    .body { font-size: 19px; }
+    .box { fill: #fff; stroke: #263f35; stroke-width: 2; rx: 6; }
+    .interface { fill: #dcebe4; stroke: #1f5a43; stroke-width: 3; rx: 6; }
+    .hidden { fill: #e7e2ca; stroke: #685f32; stroke-width: 2; rx: 6; }
+    .line { stroke: #486157; stroke-width: 3; fill: none; }
+    .dash { stroke: #8a5a44; stroke-width: 3; stroke-dasharray: 10 8; fill: none; }
+  </style>
+  <text x="600" y="58" text-anchor="middle" class="title">抽象契约：稳定接口，允许实现替换</text>
+  <rect x="70" y="210" width="250" height="130" class="box"/>
+  <text x="195" y="260" text-anchor="middle" class="label">Caller</text>
+  <text x="195" y="298" text-anchor="middle" class="body">只依赖可观察行为</text>
+  <path d="M320 275 L455 275" class="line"/>
+  <rect x="455" y="180" width="290" height="190" class="interface"/>
+  <text x="600" y="232" text-anchor="middle" class="label">Interface</text>
+  <text x="600" y="275" text-anchor="middle" class="body">输入、输出、单位、错误</text>
+  <text x="600" y="315" text-anchor="middle" class="body">Invariant 必须保持</text>
+  <path d="M745 240 L875 165" class="line"/>
+  <path d="M745 310 L875 395" class="line"/>
+  <rect x="875" y="100" width="255" height="140" class="hidden"/>
+  <text x="1002" y="152" text-anchor="middle" class="label">实现 A</text>
+  <text x="1002" y="193" text-anchor="middle" class="body">Dictionary 数据源</text>
+  <rect x="875" y="375" width="255" height="140" class="hidden"/>
+  <text x="1002" y="427" text-anchor="middle" class="label">实现 B</text>
+  <text x="1002" y="468" text-anchor="middle" class="body">Object 数据源</text>
+  <path d="M830 78 L830 555" class="dash"/>
+  <text x="810" y="585" text-anchor="end" class="body">抽象边界</text>
+  <text x="600" y="610" text-anchor="middle" class="label">替换内部实现，不应迫使 Caller 改写</text>
+</svg>

@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 3 Design Brief editorial review |
-| Last completed content | Chapter 3 Design Brief |
+| Current chapter | Chapter 3 Draft v1.0 editorial review |
+| Last completed content | Chapter 3 author draft and Learning Package |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -58,6 +58,8 @@ Chapter 1: complete v1.0
 Chapter 2: canonical v1.0
   ↓
 Chapter 3: Design Brief
+  ↓
+Author Draft v1.0
   ↓
 Editorial Review
 ```
@@ -147,7 +149,6 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Review `books/book-1-discovering-intelligence/designs/chapter3_design_brief.md`
-against the Golden Chapter Standard and current Book I hidden spine. Preserve
-the decision under `reviews/book1/chapter03_design_review.md`. Do not draft the
-chapter until the Editor-in-Chief approves the brief.
+Review `books/book-1-discovering-intelligence/chapters/chapter-03.md` against
+the approved Design Brief and Golden Chapter Standard. Preserve the decision
+under `reviews/book1/chapter03_review.md` before revision begins.

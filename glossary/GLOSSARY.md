@@ -30,7 +30,11 @@
 | Function Composition | 函数组合 | 把一个函数的输出作为另一个函数的输入以形成更复杂变换 | Chapter 02 |
 | Feedback Loop | 反馈回路 | 系统输出返回并影响后续输入、状态或行为的循环关系 | Chapter 02 |
 | Synchronous Update | 同步更新 | 所有部分读取同一旧状态并同时产生下一状态的更新方式 | Chapter 02 |
-| Abstraction | 抽象 | 保留对任务重要的信息，隐藏无关细节 | Chapter 03 |
+| Abstraction | 抽象 | 围绕任务保留必要关系、隐藏可替换细节并声明边界的契约 | Chapter 03 |
+| Interface | 接口 | 使用者观察或操作系统的边界，而无需依赖全部内部实现 | Chapter 03 |
+| Invariant | 不变量 | 内部实现改变时仍必须保持成立的关系或承诺 | Chapter 03 |
+| Equivalence Class | 等价类 | 在某个抽象和任务下被视为相同的一组具体状态 | Chapter 03 |
+| Abstraction Leakage | 抽象泄漏 | 被隐藏的实现细节穿过接口并迫使调用者依赖内部结构 | Chapter 03 |
 | Representation | 表示 | 把现实对象转换成模型可以处理的形式 | Chapter 04 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
 | Matrix | 矩阵 | 描述空间或表示如何变化的规则 | Chapter 12 |
