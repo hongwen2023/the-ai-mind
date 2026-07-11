@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting editorial review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -311,6 +311,8 @@ Failure Injection：
 
 本章不主张 Concept Map 本身证明理解。它只提供一个外显、可扰动、可修订的理解模型。
 
+> **更复杂的地图不一定更接近真实，更重要的是它是否提出可检验的关系。**
+
 ## Common Illusions · 复盘最容易制造哪些错觉？
 
 ### “能说出八个概念，所以理解了系统”
@@ -419,6 +421,8 @@ Review = reconstruct nodes and edges
 
 > **系统理解不是拥有更多节点，而是能解释关系、预测断裂、重建结构、迁移机制，并诚实标出地图尚未覆盖的现实。**
 
+> **好的地图不是信息最多，而是能在任务边界内支持更好的预测与修正。**
+
 ## Bridge to Chapter 10
 
 重建地图后，我们会发现自然语言箭头仍然含糊：
@@ -438,4 +442,3 @@ Chapter 10：**为什么数学是智能的语言？**
 
 - [Karpicke & Blunt (2011), *Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping*](https://doi.org/10.1126/science.1199327)
 - [Hsu & Hsieh (2005), *Developing Concept Maps from Problem-based Learning Scenario Discussions*](https://pubmed.ncbi.nlm.nih.gov/15533089/)
-

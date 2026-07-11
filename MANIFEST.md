@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 9 Draft v1.0 editorial review |
-| Last completed content | Chapter 9 Author Draft v1.0 and Learning Package |
+| Current chapter | Chapter 10 Design Brief |
+| Last completed content | Chapter 9 canonical v1.0 and Learning Package |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -78,9 +78,8 @@ Chapter 7: Design Brief
 Chapter 7: canonical v1.0
   ↓
 Chapter 8: canonical v1.0
-  → Chapter 9: Design Brief approved
-  → Chapter 9: Author Draft v1.0
-  → Chapter 9: awaiting editorial review
+  → Chapter 9: canonical v1.0
+  → Chapter 10: Design Brief
 ```
 
 ## Constitution Summary
@@ -168,7 +167,6 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Ask the Editor-in-Chief to review Chapter 9 Draft v1.0, its Learning Package,
-Notebook, figure, and Understanding Audit. Save the decision as
-`reviews/book1/chapter09_review.md`. Do not mark Chapter 9 canonical until the
-editorial decision and required revision are complete.
+Create the Chapter 10 Design Brief around why mathematics makes relationships
+precise, computable, comparable, and testable. Do not turn it into a survey of
+mathematical subjects, and do not draft Chapter 10 before design approval.

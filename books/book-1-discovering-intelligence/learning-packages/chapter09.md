@@ -36,10 +36,11 @@ Before: review = reread and remember chapter content.
 After:  review = reconstruct + stress + transfer + repair + mark unknowns.
 ```
 
+地图的质量不由节点和箭头数量决定，而由它能否在明确任务边界内支持预测、故障定位与修正决定。
+
 ## Capability Milestone
 
 - [ ] **Explain** 第一张 Book I 关系地图；
 - [ ] **Predict** Broken Node 与 Wrong Edge 的传播；
 - [ ] **Build** 并修复可执行知识图；
 - [ ] **Read** Missing Edge 与 Unsupported Arrow。
-
