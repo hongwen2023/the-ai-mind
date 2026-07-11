@@ -29,6 +29,12 @@ This directory contains project-level documentation for The AI Mind.
 - `RESEARCH_CORNER_STANDARD.md`
 - `FINANCE_INTEGRATION.md`
 
+## Editorial References
+
+`docs/editorial/` contains stable lessons extracted from approved chapters:
+
+- [GOLDEN_CHAPTER_STANDARD.md](editorial/GOLDEN_CHAPTER_STANDARD.md)
+
 ## Handoff
 
 `docs/handoff/` contains structured handoff notes for new work sessions.

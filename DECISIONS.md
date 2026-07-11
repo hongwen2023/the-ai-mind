@@ -151,3 +151,23 @@ Historical Journey 00-10 drafts are retained as source material only. Chapters 1
 The historical drafts preserve useful ideas but predate the current Author Bible, chapter template, and editorial pipeline. Rewriting from source material produces a coherent voice and structure without discarding the strongest original insights.
 
 Chapter 14-16 provide structural references, not the final quality ceiling. New canonical drafts target the project's 9.5/10 publication standard.
+
+## ADR-0011: Add a Chapter Design Brief Gate
+
+**Date:** 2026-07-11
+**Status:** Accepted
+
+### Decision
+
+Before drafting a substantial chapter, the Author creates a concise Design
+Brief covering the core question, learning objectives, narrative, first
+principles, mathematics, engineering, AI x Finance, research, artifacts, scope,
+and chapter bridges. The Editor-in-Chief approves the brief before full prose
+production begins.
+
+### Rationale
+
+The Prelude editorial cycle showed that early agreement on the controlling
+idea and evidence plan reduces large-scale rewrites. The Design Brief is a
+content planning gate, not a replacement for editorial review of the completed
+chapter.

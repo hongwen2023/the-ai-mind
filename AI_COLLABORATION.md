@@ -54,6 +54,10 @@ following project standards.
 Each substantial chapter should follow:
 
 ```text
+Design Brief (Author)
+  ↓
+Design Review (Editor)
+  ↓
 Draft (Author)
   ↓
 Editorial Review (Editor)
@@ -72,6 +76,9 @@ reviews/book1/chapterXX_review.md
 ```
 
 Use [reviews/REVIEW_TEMPLATE.md](reviews/REVIEW_TEMPLATE.md) for new reviews.
+
+Chapter Design Briefs live beside their book under `designs/`. A full chapter
+draft begins only after the Editor-in-Chief approves its Design Brief.
 
 ## Commit Discipline
 
