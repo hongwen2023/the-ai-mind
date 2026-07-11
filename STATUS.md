@@ -5,29 +5,29 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Prelude Draft v1.2 final approval
+**Current chapter:** Chapter 1 rewrite
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Complete first, refine second.
 
 ## Current Focus
 
 ```text
-Prelude: Author Draft v1.2
+Prelude: Complete v1.0
+  ↓
+Chapter 1: Codex Author Draft
   ↓
 ChatGPT: Editorial Review
   ↓
 Codex: Revision
   ↓
 Approval
-  ↓
-Chapter 1: Author Draft
 ```
 
 ## Chapter Status
 
 | Chapter | Topic | Status |
 |---:|---|---|
-| Prelude | 为什么学习 AI 需要一张地图？ | Author Draft v1.2; figures, glossary, and workbook complete; awaiting final approval |
+| Prelude | 为什么学习 AI 需要一张地图？ | Complete v1.0; approved and canonical |
 | 01-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
@@ -65,11 +65,12 @@ Chapter 1: Author Draft
 | Chapter | Review | Decision | Revision |
 |---:|---|---|---|
 | Prelude v1.0 | `reviews/book1/prelude_review.md` | Major Revision | Draft v1.1 complete |
-| Prelude v1.1 | `reviews/book1/prelude_review_v1.1.md` | Minor Revision | Draft v1.2 complete; pending final approval |
+| Prelude v1.1 | `reviews/book1/prelude_review_v1.1.md` | Minor Revision | Draft v1.2 complete |
+| Prelude v1.2 | `reviews/book1/prelude_review_v1.2.md` | Approved with Minor Revision | v1.3 polish complete; frozen as canonical v1.0 |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Send `books/book-1-discovering-intelligence/chapters/prelude.md` Draft v1.2 to the Editor-in-Chief for final approval. After approval, mark the Prelude canonical and begin Chapter 1.
+Draft `books/book-1-discovering-intelligence/chapters/chapter-01.md` by rewriting from the historical Journey 01 source material. Use the Prelude as the quality baseline, then submit the draft for independent editorial review.

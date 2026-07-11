@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">数学如何汇入学习系统</title>
+  <desc id="desc">线性代数提供表示，概率表达不确定性，微积分生成变化信号，优化执行搜索，四者共同支撑学习并通向 AI 系统。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/>
+    </marker>
+    <style>
+      .title { font: 700 34px system-ui, 'Microsoft YaHei', sans-serif; fill: #111827; }
+      .label { font: 700 22px system-ui, 'Microsoft YaHei', sans-serif; fill: #172033; }
+      .note { font: 400 17px system-ui, 'Microsoft YaHei', sans-serif; fill: #475569; }
+      .light { font: 400 17px system-ui, 'Microsoft YaHei', sans-serif; fill: #ffffff; }
+      .core { font: 700 27px system-ui, 'Microsoft YaHei', sans-serif; fill: #ffffff; }
+      .arrow { stroke: #334155; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="760" fill="#ffffff"/>
+  <text x="600" y="55" text-anchor="middle" class="title">数学不是四门孤立课程，而是一套学习语言</text>
+
+  <rect x="420" y="95" width="360" height="86" rx="8" fill="#0f766e"/>
+  <text x="600" y="132" text-anchor="middle" class="core">AI Systems</text>
+  <text x="600" y="159" text-anchor="middle" class="light">训练、推理、评估与行动</text>
+
+  <rect x="420" y="265" width="360" height="96" rx="8" fill="#1d4ed8"/>
+  <text x="600" y="305" text-anchor="middle" class="core">Learning · 学习</text>
+  <text x="600" y="335" text-anchor="middle" class="light">表示 + 不确定性 + 反馈 + 搜索</text>
+
+  <rect x="70" y="465" width="245" height="105" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="192" y="506" text-anchor="middle" class="label">Linear Algebra</text>
+  <text x="192" y="537" text-anchor="middle" class="note">表示与变换</text>
+
+  <rect x="345" y="465" width="245" height="105" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="467" y="506" text-anchor="middle" class="label">Probability</text>
+  <text x="467" y="537" text-anchor="middle" class="note">不确定性与证据</text>
+
+  <rect x="620" y="465" width="245" height="105" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="742" y="506" text-anchor="middle" class="label">Calculus</text>
+  <text x="742" y="537" text-anchor="middle" class="note">变化与反馈信号</text>
+
+  <rect x="895" y="465" width="245" height="105" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="1017" y="506" text-anchor="middle" class="label">Optimization</text>
+  <text x="1017" y="537" text-anchor="middle" class="note">在参数空间中搜索</text>
+
+  <rect x="420" y="650" width="360" height="70" rx="8" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+  <text x="600" y="680" text-anchor="middle" class="label">Mathematics + Code</text>
+  <text x="600" y="705" text-anchor="middle" class="note">精确描述，并把描述变成实验</text>
+
+  <path d="M 600 265 L 600 185" class="arrow"/>
+  <path d="M 192 465 C 240 410 410 375 520 351" class="arrow"/>
+  <path d="M 467 465 C 490 420 535 385 570 359" class="arrow"/>
+  <path d="M 742 465 C 720 420 673 385 630 359" class="arrow"/>
+  <path d="M 1017 465 C 960 410 790 375 680 351" class="arrow"/>
+  <path d="M 500 650 C 430 610 315 588 230 570" class="arrow"/>
+  <path d="M 550 650 C 530 615 500 590 480 570" class="arrow"/>
+  <path d="M 650 650 C 672 615 705 590 730 570" class="arrow"/>
+  <path d="M 700 650 C 775 610 890 588 980 570" class="arrow"/>
+</svg>

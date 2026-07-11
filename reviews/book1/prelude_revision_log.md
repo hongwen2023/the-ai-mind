@@ -16,7 +16,11 @@ Editor Review: Minor Revision (9.1 / 10)
   ↓
 Draft v1.2 + Figures / Glossary / Learning Artifact
   ↓
-Approval
+Final Review: Approved with Minor Revision
+  ↓
+v1.3 Final Polish
+  ↓
+Canonical v1.0
 ```
 
 ## Draft v1.0
@@ -129,10 +133,48 @@ construction rather than numerical experimentation, so a structured
 workbook is the appropriate learning artifact.
 ```
 
+## Draft v1.2 Final Editorial Review
+
+Review file:
+
+```text
+reviews/book1/prelude_review_v1.2.md
+```
+
+Decision and score:
+
+```text
+Approved with Minor Revision
+9.1 / 10
+```
+
+Required final polish:
+
+- [x] Added a smoother Tokyo story to AI transition.
+- [x] Tightened the five Research Corner introductions.
+- [x] Added `figures/book1/prelude/mathematics-learning-map.svg`.
+- [x] Added the explicit Chapter 19 Backpropagation hook.
+
+## v1.3 Final Polish and Freeze
+
+The authoring version `v1.3 Final Polish` is frozen for readers as:
+
+```text
+Prelude v1.0 · Approved · Canonical
+```
+
+Canonical assets:
+
+- `figures/book1/prelude/programming-vs-learning.svg`
+- `figures/book1/prelude/the-ai-mind-loop.svg`
+- `figures/book1/prelude/mathematics-learning-map.svg`
+- `labs/book1/prelude-learning-map-workbook.md`
+- Prelude terms in `glossary/GLOSSARY.md`
+
 ## Approval
 
 Status:
 
 ```text
-Pending Draft v1.2 final approval
+Approved · Canonical v1.0
 ```

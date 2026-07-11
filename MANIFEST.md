@@ -43,17 +43,17 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Prelude Draft v1.2 final approval |
-| Last completed content | Prelude author revision v1.2 and learning artifacts |
+| Current chapter | Chapter 1 rewrite |
+| Last completed content | Prelude complete v1.0 |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
 ## Current Learning Focus
 
 ```text
-Prelude: build the map
+Prelude: complete v1.0
   ↓
-Chapter 1-10: rewrite from source material
+Chapter 1: rewrite from source material
   ↓
 Editorial review
   ↓
@@ -147,8 +147,8 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Submit `books/book-1-discovering-intelligence/chapters/prelude.md` Draft v1.2 for final editorial approval:
+Draft `books/book-1-discovering-intelligence/chapters/chapter-01.md` from the historical Journey 01 source material:
 
-> Prelude: 为什么学习 AI 需要一张地图？
+> Chapter 1: 为什么理解比记忆重要？
 
-After approval, mark the Prelude canonical and begin Chapter 1.
+Apply the Prelude quality baseline and submit the author draft for independent editorial review.
