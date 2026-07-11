@@ -58,6 +58,13 @@ that later book-level consistency work is forbidden.
 - [x] Mental Model Upgrade included.
 - [ ] Recheck Observation / Encoding / Geometry terminology against Chapters 5–6 and 11–12.
 
+### Chapter 5
+
+- [x] Book I Question included.
+- [x] Knowledge Graph · Dependency Card included.
+- [x] Mental Model Upgrade included.
+- [ ] Recheck State / Trace / Feedback terminology against Chapters 6 and 18–19.
+
 ## Alpha Consistency Checklist
 
 - [ ] Book I Question appears consistently and advances the hidden spine.

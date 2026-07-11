@@ -82,7 +82,7 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 04：为什么世界需要表示（Representation）？](chapters/chapter-04.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 04 Design Brief](designs/chapter4_design_brief.md)
   - [Chapter 04 Learning Package](learning-packages/chapter04.md)
-- [Chapter 05：为什么计算能够产生智能？](chapters/chapter-05.md) — Draft v1.0; awaiting editorial review
+- [Chapter 05：为什么计算能够产生智能？](chapters/chapter-05.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 05 Design Brief](designs/chapter5_design_brief.md)
   - [Chapter 05 Learning Package](learning-packages/chapter05.md)
 - Chapter 06–10 — Rewrite from source material; planned

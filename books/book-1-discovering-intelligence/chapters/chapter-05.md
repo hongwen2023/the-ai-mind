@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting Editor-in-Chief review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -511,6 +511,10 @@ computable in principle
 
 更强测试：写出目标由谁定义、失败反馈怎样进入，以及规则是否会因此改变。
 
+### “Trace 很长，所以解释充分”
+
+更强测试：检查 Trace 是否记录了任务相关状态、因果依赖与分支理由，而不只是堆积步骤。更多文字和更多中间输出不会自动构成机制解释。
+
 ## Failure Modes · 计算怎样忠实地产生错误？
 
 ### Wrong Input Representation
@@ -655,6 +659,8 @@ fee 10
 
 > **计算让表示中的关系沿状态、顺序与组合产生新结果；它可以极其复杂，却只有在目标、反馈与学习加入后，才开始形成能够改进的智能闭环。**
 
+> **计算不会创造新的目标，它只会改变已有表示的状态。**
+
 ## Bridge to Chapter 6
 
 本章的状态机可以精确处理一百万次交易。只要规则不变，第百万次与第一次遵循同一套逻辑。
@@ -666,6 +672,8 @@ fee 10
 > **如果计算只会忠实执行已有规则，那么结果怎样反过来改变未来的计算？**
 
 反馈必须进入系统，规则或参数必须发生变化，过去错误才可能影响下一次行为。
+
+> **反馈只有进入未来计算，才真正形成学习。**
 
 这就是 Learning 要解决的问题。
 

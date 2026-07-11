@@ -52,6 +52,10 @@ After:  computation = representation transformation
         + resource limits + observable trace.
 ```
 
+A long trace is not automatically an explanation. The learner must identify
+which state, dependency, or branch caused the behavior and how feedback would
+change a future execution.
+
 ## Capability Milestone
 
 - [ ] **Explain** computation as stateful representation transformation.
