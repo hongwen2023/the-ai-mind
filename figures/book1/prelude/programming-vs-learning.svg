@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">传统程序与机器学习的规则来源不同</title>
+  <desc id="desc">左侧显示人先编写规则再由程序执行；右侧显示学习算法从数据、目标和反馈中形成参数化规则。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/>
+    </marker>
+    <style>
+      .title { font: 700 34px system-ui, 'Microsoft YaHei', sans-serif; fill: #111827; }
+      .panel-title { font: 700 25px system-ui, 'Microsoft YaHei', sans-serif; fill: #111827; }
+      .label { font: 600 22px system-ui, 'Microsoft YaHei', sans-serif; fill: #172033; }
+      .note { font: 400 18px system-ui, 'Microsoft YaHei', sans-serif; fill: #475569; }
+      .arrow { stroke: #334155; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <text x="600" y="58" text-anchor="middle" class="title">规则从哪里来？</text>
+
+  <rect x="55" y="100" width="520" height="455" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+  <text x="315" y="145" text-anchor="middle" class="panel-title">传统程序</text>
+  <rect x="145" y="180" width="340" height="72" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="315" y="225" text-anchor="middle" class="label">人编写规则 + 输入数据</text>
+  <path d="M 315 252 L 315 304" class="arrow"/>
+  <rect x="145" y="310" width="340" height="72" rx="6" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+  <text x="315" y="355" text-anchor="middle" class="label">程序执行规则</text>
+  <path d="M 315 382 L 315 434" class="arrow"/>
+  <rect x="145" y="440" width="340" height="72" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="315" y="485" text-anchor="middle" class="label">输出结果</text>
+  <text x="315" y="535" text-anchor="middle" class="note">规则在运行前已经写明</text>
+
+  <rect x="625" y="100" width="520" height="455" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+  <text x="885" y="145" text-anchor="middle" class="panel-title">机器学习</text>
+  <rect x="715" y="180" width="340" height="72" rx="6" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="885" y="214" text-anchor="middle" class="label">数据 + 目标 + 反馈</text>
+  <text x="885" y="239" text-anchor="middle" class="note">人设计学习条件</text>
+  <path d="M 885 252 L 885 304" class="arrow"/>
+  <rect x="715" y="310" width="340" height="72" rx="6" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="885" y="355" text-anchor="middle" class="label">学习算法调整参数</text>
+  <path d="M 885 382 L 885 434" class="arrow"/>
+  <rect x="715" y="440" width="340" height="72" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="885" y="474" text-anchor="middle" class="label">形成可用于新数据的规则</text>
+  <text x="885" y="499" text-anchor="middle" class="note">规则体现在学到的参数中</text>
+  <text x="885" y="535" text-anchor="middle" class="note">反馈决定系统最终学会什么</text>
+</svg>

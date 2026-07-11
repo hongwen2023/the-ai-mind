@@ -2,6 +2,16 @@
 
 | Term | 中文 | 一句话解释 | First appearance |
 |---|---|---|---|
+| Mental Model | 心智模型 | 用来组织概念、关系和因果结构的内部地图 | Prelude |
+| Machine Learning | 机器学习 | 让系统从数据和反馈中形成可用于新输入的规则 | Prelude |
+| Objective Function | 目标函数 | 把系统希望优化的结果写成可比较的数学目标 | Prelude |
+| Scaling Laws | 规模定律 | 描述模型性能如何随模型规模、数据量和计算量系统变化的经验规律 | Prelude |
+| Representation Learning | 表示学习 | 让模型从数据中学习适合任务的内部表示 | Prelude |
+| Interpretability | 可解释性 | 研究模型内部机制及其输出原因能否被人理解和验证 | Prelude |
+| AI Alignment | AI 对齐 | 研究 AI 系统的行为与人类真实意图和长期目标是否一致 | Prelude |
+| Alpha Generation | Alpha 生成 | 从信息和结构变化中形成具有超额收益潜力的可检验信号 | Prelude |
+| Portfolio Optimization | 组合优化 | 在收益、风险、相关性、容量与成本约束下分配投资权重 | Prelude |
+| Online Learning | 在线学习 | 随新数据持续到来而更新模型或信念的学习方式 | Prelude |
 | Abstraction | 抽象 | 保留对任务重要的信息，隐藏无关细节 | Chapter 03 |
 | Representation | 表示 | 把现实对象转换成模型可以处理的形式 | Chapter 04 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |

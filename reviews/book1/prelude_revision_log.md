@@ -12,9 +12,9 @@ Editorial Review: Major Revision
   ↓
 Draft v1.1
   ↓
-Editor Review
+Editor Review: Minor Revision (9.1 / 10)
   ↓
-Figures / Glossary / Learning Artifacts
+Draft v1.2 + Figures / Glossary / Learning Artifact
   ↓
 Approval
 ```
@@ -78,10 +78,61 @@ Deferred according to the editorial review:
 
 These are added after the v1.1 editorial review.
 
+## Draft v1.1 Editorial Review
+
+Review file:
+
+```text
+reviews/book1/prelude_review_v1.1.md
+```
+
+Decision and score:
+
+```text
+Minor Revision
+9.1 / 10
+```
+
+Mandatory changes:
+
+- Connect the Research Corner topics into a coherent research map.
+- Extend AI × Finance beyond analogy into a fuller learning-system mapping.
+
+Production readiness:
+
+- Figures may begin.
+- Glossary may begin.
+- Learning artifacts may begin.
+
+## Draft v1.2
+
+Completed changes:
+
+- [x] Connected Scaling Laws, Representation Learning, Interpretability,
+      Alignment, and The Bitter Lesson into one research chain.
+- [x] Added future Book I-IV return points for the research themes.
+- [x] Added three classic research reading landmarks.
+- [x] Added Objective Function, Representation Learning, Alpha Generation,
+      Portfolio Optimization, and Online Learning mappings for finance.
+- [x] Added the mathematics summary sentence requested by the editor.
+- [x] Strengthened The AI Mind identity statement.
+- [x] Strengthened the bridge to Chapter 1.
+- [x] Added two SVG teaching figures.
+- [x] Added Prelude glossary terms.
+- [x] Added `labs/book1/prelude-learning-map-workbook.md`.
+
+Notebook decision:
+
+```text
+Not applicable for the Prelude. The learning objective is mental-model
+construction rather than numerical experimentation, so a structured
+workbook is the appropriate learning artifact.
+```
+
 ## Approval
 
 Status:
 
 ```text
-Pending v1.1 editorial review
+Pending Draft v1.2 final approval
 ```
