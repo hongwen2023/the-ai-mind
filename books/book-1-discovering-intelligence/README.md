@@ -31,7 +31,9 @@ definition is a growing model, not a sentence to memorize.
 - [Prelude：为什么学习 AI 需要一张地图？](chapters/prelude.md) — Complete v1.0
 - [Chapter 01：为什么理解比记忆重要？](chapters/chapter-01.md) — Complete v1.0
   - [Chapter 01 Learning Package](learning-packages/chapter01.md)
-- Chapter 02–10 — Rewrite from source material; planned
+- [Chapter 02：为什么复杂系统可以来自简单规则？](chapters/chapter-02.md) — Draft v1.0; awaiting editorial review
+  - [Chapter 02 Learning Package](learning-packages/chapter02.md)
+- Chapter 03–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)

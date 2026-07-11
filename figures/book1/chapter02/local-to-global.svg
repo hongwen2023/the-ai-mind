@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">局部规则如何生成全局图案</title>
+  <desc id="desc">状态进入局部规则，交互传播更新，迭代把结果变成新状态，循环后全局图案逐渐可见。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/>
+    </marker>
+    <style>
+      .title { font: 700 34px system-ui, 'Microsoft YaHei', sans-serif; fill: #111827; }
+      .label { font: 700 23px system-ui, 'Microsoft YaHei', sans-serif; fill: #172033; }
+      .note { font: 400 18px system-ui, 'Microsoft YaHei', sans-serif; fill: #475569; }
+      .center { font: 700 27px system-ui, 'Microsoft YaHei', sans-serif; fill: #ffffff; }
+      .center-note { font: 400 17px system-ui, 'Microsoft YaHei', sans-serif; fill: #ffffff; }
+      .line { stroke: #475569; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="600" y="54" text-anchor="middle" class="title">全局图案从一个更新循环里生长</text>
+
+  <rect x="90" y="145" width="310" height="110" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="245" y="188" text-anchor="middle" class="label">State · 状态</text>
+  <text x="245" y="220" text-anchor="middle" class="note">当前留下了什么信息？</text>
+
+  <rect x="800" y="145" width="310" height="110" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="955" y="188" text-anchor="middle" class="label">Local Rule · 局部规则</text>
+  <text x="955" y="220" text-anchor="middle" class="note">每个部分怎样更新？</text>
+
+  <rect x="800" y="465" width="310" height="110" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="955" y="508" text-anchor="middle" class="label">Interaction · 交互</text>
+  <text x="955" y="540" text-anchor="middle" class="note">更新怎样影响其他部分？</text>
+
+  <rect x="90" y="465" width="310" height="110" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="245" y="508" text-anchor="middle" class="label">Iteration · 迭代</text>
+  <text x="245" y="540" text-anchor="middle" class="note">结果怎样成为下一轮输入？</text>
+
+  <circle cx="600" cy="360" r="128" fill="#0f766e"/>
+  <text x="600" y="350" text-anchor="middle" class="center">Global Pattern</text>
+  <text x="600" y="383" text-anchor="middle" class="center-note">随时间可见的整体结构</text>
+
+  <path d="M 400 190 C 560 115 700 115 800 190" class="line"/>
+  <path d="M 955 255 L 955 460" class="line"/>
+  <path d="M 800 520 C 660 610 520 610 400 520" class="line"/>
+  <path d="M 245 465 L 245 260" class="line"/>
+
+  <path d="M 415 230 C 480 270 515 298 535 320" class="line"/>
+  <path d="M 785 230 C 720 270 685 298 665 320" class="line"/>
+  <path d="M 785 490 C 720 450 685 422 665 400" class="line"/>
+  <path d="M 415 490 C 480 450 515 422 535 400" class="line"/>
+
+  <text x="600" y="665" text-anchor="middle" class="note">四项共同约束生成过程；缺少一项，整体行为可能完全改变。</text>
+</svg>

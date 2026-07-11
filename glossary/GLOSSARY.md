@@ -21,6 +21,15 @@
 | Perturbation Test | 扰动测试 | 主动改变一个条件并在运行前预测后果，以检验因果理解 | Chapter 01 |
 | Driver Tree | 驱动因素树 | 把结果拆分为可分析、可预测和可证伪的底层驱动关系 | Chapter 01 |
 | Grokking | 顿悟式泛化 | 模型在训练集早已拟合后，测试泛化于更晚训练阶段显著出现的现象 | Chapter 01 |
+| Local Rule | 局部规则 | 系统中的一个部分根据有限邻域或接口信息执行的更新关系 | Chapter 02 |
+| Iteration | 迭代 | 把一次更新的结果作为下一次输入并反复执行的过程 | Chapter 02 |
+| Interaction | 交互 | 一个部分的状态或输出影响其他部分后续行为的连接关系 | Chapter 02 |
+| State | 状态 | 系统在某一时刻保留、并会影响下一步的信息 | Chapter 02 |
+| Emergence | 涌现 | 未被直接写入单个局部规则、却由局部交互生成的全局可观察结构 | Chapter 02 |
+| Cellular Automaton | 元胞自动机 | 在离散网格上反复应用局部更新规则的动态系统 | Chapter 02 |
+| Function Composition | 函数组合 | 把一个函数的输出作为另一个函数的输入以形成更复杂变换 | Chapter 02 |
+| Feedback Loop | 反馈回路 | 系统输出返回并影响后续输入、状态或行为的循环关系 | Chapter 02 |
+| Synchronous Update | 同步更新 | 所有部分读取同一旧状态并同时产生下一状态的更新方式 | Chapter 02 |
 | Abstraction | 抽象 | 保留对任务重要的信息，隐藏无关细节 | Chapter 03 |
 | Representation | 表示 | 把现实对象转换成模型可以处理的形式 | Chapter 04 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
