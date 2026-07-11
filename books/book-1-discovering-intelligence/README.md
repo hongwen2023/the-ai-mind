@@ -1,5 +1,31 @@
 # Book I · Discovering Intelligence
 
+## Living Definition · Intelligence
+
+This definition is intentionally incomplete. Book I will thicken it as the
+learner encounters relationships, rules, representation, computation,
+learning, and generalization.
+
+### Current Definition
+
+> **智能是在条件变化时，利用关系产生有用预测或行动，并通过反馈修正这些关系的能力。**
+
+### New Layer Added by Book I
+
+Book I asks how this ability can grow from:
+
+- simple local rules and their interaction;
+- representations that preserve useful structure;
+- computation that transforms representations;
+- feedback that changes future behavior;
+- generalization beyond remembered examples.
+
+### Reader's Definition
+
+At the end of Book I, the learner rewrites the definition in their own words,
+states what evidence would support it, and names one important limitation. The
+definition is a growing model, not a sentence to memorize.
+
 ## Table of Contents
 
 - [Prelude：为什么学习 AI 需要一张地图？](chapters/prelude.md) — Complete v1.0
