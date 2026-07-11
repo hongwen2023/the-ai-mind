@@ -56,7 +56,8 @@ Chapter 7: Canonical v1.0
   ↓
 Chapter 8: Canonical v1.0
   → Chapter 9: Canonical v1.0
-  → Chapter 10: Design Brief
+  → Chapter 10: Design Brief complete
+  → Chapter 10: awaiting editorial review
 ```
 
 ## Chapter Status
@@ -73,7 +74,7 @@ Chapter 8: Canonical v1.0
 | 07 | 为什么好的模型能够举一反三？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 08 | 为什么研究总是从“为什么”开始？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 09 | 第一幕复盘：构建第一张 AI 思维地图 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
-| 10 | 为什么数学是智能的语言？ | Historical draft retained as source material; rewrite planned |
+| 10 | 为什么数学是智能的语言？ | Design Brief complete; awaiting editorial review |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
 | 13 | 线性变换 | Complete v1.0 |
@@ -130,10 +131,11 @@ Chapter 8: Canonical v1.0
 | Chapter 08 Draft | `reviews/book1/chapter08_review.md` | Approved | Final polish complete; canonical v1.0 |
 | Chapter 09 Design | `reviews/book1/chapter09_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 09 Draft | `reviews/book1/chapter09_review.md` | Approved | Final polish complete; canonical v1.0 |
+| Chapter 10 Design | Pending | Awaiting review | Design Brief complete; drafting blocked until approval |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Create the Chapter 10 Design Brief around why mathematics makes relationships precise, computable, comparable, and testable. Do not draft Chapter 10 before design approval.
+Review `books/book-1-discovering-intelligence/designs/chapter10_design_brief.md` and save the decision as `reviews/book1/chapter10_design_review.md`. Do not draft Chapter 10 until the Design Brief is approved.
