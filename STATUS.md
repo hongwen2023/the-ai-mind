@@ -5,7 +5,7 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 5 Design Brief
+**Current chapter:** Chapter 5 Design Brief editorial review
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Design first, draft second, review always.
 
@@ -37,6 +37,8 @@ Chapter 4: Author Draft v1.0
 Chapter 4: Canonical v1.0
   ↓
 Chapter 5: Design Brief
+  ↓
+ChatGPT: Design Review
 ```
 
 ## Chapter Status
@@ -48,7 +50,8 @@ Chapter 5: Design Brief
 | 02 | 为什么复杂系统可以来自简单规则？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 03 | 为什么抽象是人类最重要的工具之一？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 04 | 为什么世界需要表示（Representation）？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
-| 05-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
+| 05 | 为什么计算能够产生智能？ | Design Brief complete; awaiting editorial review |
+| 06-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
 | 13 | 线性变换 | Complete v1.0 |
@@ -95,10 +98,11 @@ Chapter 5: Design Brief
 | Chapter 03 Draft | `reviews/book1/chapter03_review.md` | Approved | Final polish complete; canonical v1.0 |
 | Chapter 04 Design | `reviews/book1/chapter04_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 04 Draft | `reviews/book1/chapter04_review.md` | Approved | Final polish complete; canonical v1.0 |
+| Chapter 05 Design | Pending | Awaiting review | Design Brief complete |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Create `books/book-1-discovering-intelligence/designs/chapter5_design_brief.md`. Do not draft Chapter 5 until the Editor-in-Chief approves the Design Brief.
+Review `books/book-1-discovering-intelligence/designs/chapter5_design_brief.md`. Save the decision as `reviews/book1/chapter05_design_review.md`. Do not draft Chapter 5 until the Editor-in-Chief approves the Design Brief.

@@ -82,7 +82,9 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 04：为什么世界需要表示（Representation）？](chapters/chapter-04.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 04 Design Brief](designs/chapter4_design_brief.md)
   - [Chapter 04 Learning Package](learning-packages/chapter04.md)
-- Chapter 05–10 — Rewrite from source material; planned
+- Chapter 05：为什么计算能够产生智能？ — Design Brief complete; awaiting editorial review
+  - [Chapter 05 Design Brief](designs/chapter5_design_brief.md)
+- Chapter 06–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)

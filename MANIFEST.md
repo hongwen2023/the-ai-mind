@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 5 Design Brief |
-| Last completed content | Chapter 4 canonical v1.0 and Learning Package |
+| Current chapter | Chapter 5 Design Brief editorial review |
+| Last completed content | Chapter 5 Design Brief |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -66,6 +66,8 @@ Chapter 4: Design Brief
 Chapter 4: canonical v1.0
   ↓
 Chapter 5: Design Brief
+  ↓
+Editorial Review
 ```
 
 ## Constitution Summary
@@ -153,7 +155,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Create the Chapter 5 Design Brief under
-`books/book-1-discovering-intelligence/designs/chapter5_design_brief.md`.
-Use the Golden Chapter Standard and current Book I hidden spine. Do not draft
-the chapter until the Editor-in-Chief approves the brief.
+Review `books/book-1-discovering-intelligence/designs/chapter5_design_brief.md`
+against the Golden Chapter Standard and current Book I hidden spine. Preserve
+the decision under `reviews/book1/chapter05_design_review.md`. Do not draft the
+chapter until the Editor-in-Chief approves the brief.
