@@ -34,6 +34,7 @@ The root files define how this project runs:
 - [ROADMAP.md](ROADMAP.md): long-term milestones
 - [STYLE_GUIDE.md](STYLE_GUIDE.md): writing and formatting conventions
 - [docs/](docs/README.md): bootstrap pack, author bible, operations, and handoff notes
+- [reviews/](reviews/README.md): permanent editorial reviews and review template
 
 ## Codex / AI Resume Kit
 

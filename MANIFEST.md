@@ -93,6 +93,7 @@ Project support documents live under [docs/](docs/README.md):
 - [docs/author-bible/](docs/author-bible/): editorial and content quality standards.
 - [docs/operations/](docs/operations/): project operations, release, review, and maintenance notes.
 - [docs/handoff/](docs/handoff/): structured handoff notes for new work sessions.
+- [reviews/](reviews/README.md): permanent editorial reviews and review templates.
 
 ## Definition of Done
 
@@ -110,6 +111,7 @@ A chapter is not considered complete until these are done:
 - [ ] Exercises included.
 - [ ] Glossary terms updated.
 - [ ] STATUS.md updated.
+- [ ] Review file created or explicitly deferred.
 - [ ] Git commit created.
 - [ ] GitHub pushed.
 

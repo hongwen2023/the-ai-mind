@@ -107,3 +107,30 @@ The current sprint is Book I Act II, covering the chain from vectors to backprop
 ### Rationale
 
 This material creates the bridge to Karpathy's `micrograd` and the later deep learning implementation track.
+
+## ADR-0009: Adopt Author / Editor Editorial Workflow
+
+**Date:** 2026-07-11
+**Status:** Accepted
+
+### Decision
+
+The project adopts a publisher-style workflow:
+
+```text
+Codex / Author
+  ↓
+ChatGPT or human Editor-in-Chief
+  ↓
+Codex revision
+  ↓
+Approval
+  ↓
+GitHub publish
+```
+
+Editorial reviews are preserved under `reviews/`.
+
+### Rationale
+
+The project is now a long-term curriculum rather than a one-shot document. Preserving review reports keeps technical, pedagogical, and narrative decisions visible. It also prevents divergence between chat drafts, local files, and GitHub.

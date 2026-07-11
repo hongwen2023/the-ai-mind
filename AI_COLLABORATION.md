@@ -3,6 +3,16 @@
 This protocol applies to ChatGPT, Codex, Claude, Gemini and future AI
 assistants.
 
+## Role Split
+
+The project uses a publisher-style Author / Editor workflow.
+
+| Role | Owner | Responsibility |
+|---|---|---|
+| Author | Codex | Draft chapters, notebooks, figures, glossary updates, commits |
+| Editor-in-Chief | ChatGPT / human editor | Technical review, pedagogy, narrative, math, AI correctness, finance, research |
+| Source of Truth | GitHub | Canonical files, review history, revisions, releases |
+
 ## Read Order
 
 Always read:
@@ -36,10 +46,45 @@ following project standards.
 -   Keep terminology consistent.
 -   Update STATUS.md after completing a chapter.
 -   Do not redesign project architecture unless explicitly requested.
+-   Do not overwrite an editor review; preserve it under `reviews/`.
+-   Treat review reports as project history, not temporary notes.
+
+## Editorial Workflow
+
+Each substantial chapter should follow:
+
+```text
+Draft (Author)
+  ↓
+Editorial Review (Editor)
+  ↓
+Revision (Author)
+  ↓
+Approval (Editor)
+  ↓
+Merge / publish
+```
+
+Review files live under:
+
+```text
+reviews/book1/chapterXX_review.md
+```
+
+Use [reviews/REVIEW_TEMPLATE.md](reviews/REVIEW_TEMPLATE.md) for new reviews.
 
 ## Commit Discipline
 
-Each completed chapter should correspond to one logical commit.
+Use logical commits that preserve the publication trail:
+
+```text
+docs(book1): draft chapterXX
+docs(review): editorial review chapterXX
+docs(book1): revise chapterXX
+docs(book1): approve chapterXX
+```
+
+For small chapters or early v1.0 work, one complete chapter commit is acceptable, but the review process becomes mandatory once an editor review exists.
 
 ## Consistency Checklist
 

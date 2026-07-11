@@ -53,6 +53,7 @@ Chapter 20: Book I Act II Review
 | docs/author-bible | Present |
 | docs/handoff | Present |
 | docs/operations | Present |
+| reviews | Present |
 
 ## Next Action
 
