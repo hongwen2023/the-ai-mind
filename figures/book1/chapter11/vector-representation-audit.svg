@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Vector Representation Audit</title>
+  <desc id="desc">Eight questions define a vector contract from object and coordinates to metric and boundary.</desc>
+  <rect width="1200" height="520" fill="#f7f8f5"/>
+  <text x="600" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17212b">Vector Representation Audit</text>
+  <text x="600" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#53616d">Geometry begins with a coordinate contract.</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">
+    <g fill="#fff" stroke="#273746" stroke-width="2">
+      <rect x="70" y="140" width="230" height="72" rx="6"/><rect x="350" y="140" width="230" height="72" rx="6"/>
+      <rect x="630" y="140" width="230" height="72" rx="6"/><rect x="910" y="140" width="230" height="72" rx="6"/>
+      <rect x="70" y="270" width="230" height="72" rx="6"/><rect x="350" y="270" width="230" height="72" rx="6"/>
+      <rect x="630" y="270" width="230" height="72" rx="6"/><rect x="910" y="270" width="230" height="72" rx="6"/>
+    </g>
+    <text x="185" y="184">Object</text><text x="465" y="184">Coordinates + Order</text><text x="745" y="184">Unit + Scale</text><text x="1025" y="184">Origin + Basis</text>
+    <text x="185" y="314">Operation</text><text x="465" y="314">Metric</text><text x="745" y="314">Task</text><text x="1025" y="314">Boundary</text>
+  </g>
+  <path d="M185 360 C185 445 1025 445 1025 360" fill="none" stroke="#287a78" stroke-width="3" stroke-dasharray="8 7"/>
+  <text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#287a78">Change the contract, and the geometry changes.</text>
+</svg>
