@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 1 Draft v1.0 editorial review |
-| Last completed content | Chapter 1 author draft and learning artifacts |
+| Current chapter | Chapter 2 Design Brief |
+| Last completed content | Chapter 1 complete v1.0 and Learning Package |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -53,17 +53,11 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 ```text
 Prelude: complete v1.0
   ↓
-Chapter 1: Design Brief
+Chapter 1: complete v1.0
   ↓
-Design Brief approved
+Chapter 2: Design Brief
   ↓
-Author Draft v1.0
-  ↓
-Editorial review
-  ↓
-Author revision
-  ↓
-Approval
+Design Review
 ```
 
 ## Constitution Summary
@@ -151,8 +145,8 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Review `books/book-1-discovering-intelligence/chapters/chapter-01.md`:
+Create `books/book-1-discovering-intelligence/designs/chapter2_design_brief.md`:
 
-> Chapter 1 Draft v1.0: 为什么理解比记忆重要？
+> Chapter 2: 为什么复杂系统可以来自简单规则？
 
-Use the approved Design Brief and Golden Chapter Standard as the review basis. Preserve the review under `reviews/book1/chapter01_review.md`.
+Use the Golden Chapter Standard and the Chapter 1 quality baseline. Do not begin Chapter 2 prose before Design Review approval.

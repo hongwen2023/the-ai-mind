@@ -243,6 +243,28 @@ Book I chapters close with four recurring checks:
 The audit is not decorative repetition. Prompts must be specific to the
 chapter and produce observable evidence.
 
+## Learning Package
+
+A completed chapter should present its teaching assets as one Learning
+Package:
+
+```text
+Chapter
+  +
+Notebook or executable experiment
+  +
+Understanding Audit
+  +
+Figures
+  +
+Glossary links
+```
+
+The files may remain in separate reusable directories, but a package index
+must tell the learner what each artifact does, in what order to use it, and
+what evidence counts as completion. An Audit is an assessment artifact, not an
+optional appendix.
+
 ## Common Illusions
 
 Where relevant, chapters should name convincing but unreliable signals of
