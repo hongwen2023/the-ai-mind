@@ -5,7 +5,7 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 8 Design Brief
+**Current chapter:** Chapter 8 Draft v1.0 editorial review
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Design first, draft second, review always.
 
@@ -54,7 +54,8 @@ Chapter 7: Author Draft v1.0
   ↓
 Chapter 7: Canonical v1.0
   ↓
-Chapter 8: Design Brief complete
+Chapter 8: Design Brief approved
+  → Chapter 8: Author Draft v1.0
   → Chapter 8: awaiting editorial review
 ```
 
@@ -70,7 +71,7 @@ Chapter 8: Design Brief complete
 | 05 | 为什么计算能够产生智能？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 06 | 为什么机器能够学习？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 07 | 为什么好的模型能够举一反三？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
-| 08 | 为什么研究总是从“为什么”开始？ | Design Brief complete; awaiting editorial review |
+| 08 | 为什么研究总是从“为什么”开始？ | Author Draft v1.0 and Learning Package complete; awaiting editorial review |
 | 09-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
@@ -124,11 +125,12 @@ Chapter 8: Design Brief complete
 | Chapter 06 Draft | `reviews/book1/chapter06_review.md` | Approved | Final polish complete; canonical v1.0 |
 | Chapter 07 Design | `reviews/book1/chapter07_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 07 Draft | `reviews/book1/chapter07_review.md` | Approved | Final polish complete; canonical v1.0 |
-| Chapter 08 Design | Pending | Awaiting review | Design Brief complete; drafting blocked until approval |
+| Chapter 08 Design | `reviews/book1/chapter08_design_review.md` | Approved | Draft v1.0 complete |
+| Chapter 08 Draft | Pending | Awaiting review | Author Draft v1.0 and Learning Package complete |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Review `books/book-1-discovering-intelligence/designs/chapter8_design_brief.md` and save the editorial decision as `reviews/book1/chapter08_design_review.md`. Do not draft Chapter 8 until the Editor-in-Chief approves the Design Brief.
+Review Chapter 8 Draft v1.0 and its Learning Package, Notebook, figure, and Understanding Audit. Save the decision as `reviews/book1/chapter08_review.md`; do not mark the chapter canonical before revision and approval.

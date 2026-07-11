@@ -6,7 +6,7 @@
 
 **Author:** Codex
 
-**Status:** Awaiting Editor-in-Chief review
+**Status:** Approved
 
 **Source:** Historical Journey 08 supplies seed ideas only. The chapter will
 be rewritten around the canonical Book I hidden spine and Golden Chapter
