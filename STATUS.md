@@ -28,9 +28,9 @@ Chapter 20: Book I Act II Review
 | 00-10 | AI 思维与数学语言 | Draft v1.0 |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
-| 13 | 线性变换 | Material merged; needs full editorial pass |
-| 14 | 非线性 | Material merged; needs full editorial pass |
-| 15 | 梯度 | Draft material exists; needs canonical chapter |
+| 13 | 线性变换 | Complete v1.0 |
+| 14 | 非线性 | Complete v1.0 |
+| 15 | 梯度 | Complete v1.0 |
 | 16 | 损失函数 | Complete v1.0 |
 | 17 | 优化 | Next |
 | 18 | 链式法则 | Planned |
