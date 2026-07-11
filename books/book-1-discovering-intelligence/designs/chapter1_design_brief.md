@@ -6,13 +6,13 @@
 
 **Author:** Codex
 
-**Status:** Draft v0.1 · Awaiting Editorial Review
+**Status:** Approved for Draft v1.0
 
 **Source:** Historical Journey 01 provides ideas only; structure and prose will be rewritten.
 
 ## Core Question
 
-为什么“我记得答案”和“我理解问题”不是同一件事？什么证据足以说明一个 AI 概念已经真正属于学习者？
+为什么真正的学习不是记住答案，而是建立关系？什么证据足以说明一个 AI 概念已经真正属于学习者？
 
 ## Controlling Thesis
 
@@ -83,6 +83,8 @@ y = 2x + 1
 
 它压缩样本、预测 `x=4` 时 `y=9`，也能被新样本证伪。
 
+Rule Compression 是 Representation 的第一步：学习者不再把每个样本当作孤立事实，而是用一个关系表示它们共享的结构。
+
 关键反转：有限点可以被多条曲线完美拟合。选择简单规则包含归纳假设。因此，理解不是找到唯一真理，而是提出目前最简洁、可检验、愿意被修正的模型。
 
 本章只建立直觉，不正式讲多项式插值、Occam's Razor 或 Inductive Bias。
@@ -126,9 +128,9 @@ optimizer.step()
 
 1. Behavioral：在未见组合、反事实与分布变化下是否稳定？
 2. Causal：干预输入或内部表征时，行为是否按假设改变？
-3. Mechanistic：能否找到执行能力的内部特征或回路？
+3. 内部机制：能否找到执行能力的内部特征或计算过程？
 
-候选阅读方向限于 memorization versus generalization、grokking 和 mechanistic interpretability。本章不裁决 LLM 是否具有意识。
+候选阅读方向限于 memorization versus generalization、grokking 和内部机制研究。本章不裁决 LLM 是否具有意识。
 
 ## Figures and Learning Artifacts
 
@@ -146,6 +148,13 @@ optimizer.step()
 - 把简洁规则当作最终真理；
 - 把人类理解直接投射到模型；
 - 追求“完全理解”而迟迟不进入实现。
+
+## Common Illusions
+
+- “我看懂了”不等于我能预测变化；
+- “我会背”不等于我能从原则重建；
+- “Notebook 能运行”不等于我理解系统为何工作；
+- “我能流畅解释”不等于解释经得起反例。
 
 ## Exercise Evidence
 
@@ -186,3 +195,8 @@ Teach Back 面向十二岁孩子、工程师和投资者，分别使用答案卡
 3. 数学锚点是否适合 Chapter 1 难度？
 4. 工程与金融迁移是否足够具体？
 5. Research Corner 是否准确且未过度预支后续内容？
+
+## Editorial Approval
+
+Approved in `reviews/book1/chapter01_design_review.md`. Full Draft v1.0 may
+proceed without expanding the approved scope.

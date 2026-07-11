@@ -2,6 +2,8 @@
 
 **Reference:** Book I Prelude · Complete v1.0
 
+**Status:** Frozen baseline
+
 **Purpose:** Capture the editorial lessons demonstrated by the approved
 Prelude so Chapters 1-30 can reproduce its quality without copying its
 surface structure.
@@ -106,6 +108,35 @@ This is the standard for scope control:
 - do not steal the later chapter's work;
 - create explicit return points.
 
+## Knowledge Half-Life
+
+The main text should invest most heavily in ideas with long explanatory lives.
+Specific model families, APIs, and product names may change quickly;
+representation, learning, probability, optimization, feedback, evaluation,
+and system constraints remain useful even when today's architecture is no
+longer dominant.
+
+This does not mean ignoring current systems. A Golden Chapter uses current
+technology to reveal durable mechanisms:
+
+```text
+fast-changing example
+  ↓
+stable mechanism
+  ↓
+transfer to the next system
+```
+
+When deciding what belongs in the main text, ask:
+
+- Will this still explain something important if the named tool disappears?
+- Is the detail a durable mechanism, a current implementation, or news?
+- Can fast-changing material be isolated in an update note without breaking
+  the chapter's central argument?
+
+The goal is not to predict which architecture wins. It is to give readers the
+conceptual tools to understand whichever architecture comes next.
+
 ## Figures That Teach
 
 The Prelude figures each answer one question:
@@ -198,6 +229,33 @@ transfer or create
 
 The chapter's learning objectives and exercises must be traceable to each
 other. An objective with no observable task is only an aspiration.
+
+## Understanding Audit
+
+Book I chapters close with four recurring checks:
+
+- **Explain:** Can the learner explain why the mechanism is needed?
+- **Predict:** Can the learner predict what changes when a condition changes?
+- **Reconstruct:** Can the learner rebuild the core relationship without the
+  source in front of them?
+- **Transfer:** Can the learner use the relationship in a new problem?
+
+The audit is not decorative repetition. Prompts must be specific to the
+chapter and produce observable evidence.
+
+## Common Illusions
+
+Where relevant, chapters should name convincing but unreliable signals of
+understanding, such as:
+
+- “I recognize the explanation”;
+- “I can repeat the formula”;
+- “The Notebook runs”;
+- “The training loss is lower”;
+- “The model answered this benchmark correctly.”
+
+Each illusion should be paired with a stronger test. The purpose is to help
+learners calibrate themselves, not to make them distrust every success.
 
 ## Bridges Create One Book
 
