@@ -77,7 +77,8 @@ Chapter 7: Design Brief
   ↓
 Chapter 7: canonical v1.0
   ↓
-Chapter 8: Design Brief
+Chapter 8: Design Brief complete
+  → Chapter 8: awaiting editorial review
 ```
 
 ## Constitution Summary
@@ -165,7 +166,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Create the Chapter 8 Design Brief under
+Ask the Editor-in-Chief to review
 `books/book-1-discovering-intelligence/designs/chapter8_design_brief.md`.
-Use the Golden Chapter Standard and current Book I hidden spine. Do not draft
-the chapter until the Editor-in-Chief approves the brief.
+Save the decision as `reviews/book1/chapter08_design_review.md`. Do not draft
+Chapter 8 until the Design Brief is approved.
