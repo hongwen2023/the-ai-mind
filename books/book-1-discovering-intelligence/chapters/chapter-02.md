@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting Editor-in-Chief review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -172,6 +172,8 @@ Global pattern becomes visible over time
 
 这个定义没有说 Emergence 是超自然现象，也没有说它无法分析。恰恰相反：我们希望找到生成图案的局部过程。
 
+Emergence 是观察层面的概念，而不是藏在系统里的神秘机制。它标记的是一种需要解释的整体结构；解释仍然要回到规则、状态、交互与测量。
+
 它也没有说所有全局结构都很复杂。每个人同时保持静止，同样是局部规则产生的全局结果，却没有多少值得研究的结构。
 
 所以必须区分：
@@ -232,6 +234,8 @@ t = 2   ○ ● ○ ○ ○ ● ○
 ```
 
 这套局部规则通常称为 Rule 90。它可以生成具有自相似结构的三角形图案。
+
+Rule 90 只是一个透明、便于手算的教学示例，不是 Emergence 的唯一起点。改变规则、连接方式、更新顺序或状态空间，都可能生成其他全局结构。
 
 ![Rule 90 的重复局部更新](../../../figures/book1/chapter02/rule90-evolution.svg)
 
@@ -433,6 +437,8 @@ learned behavior
 ### “简单”被当成价值判断
 
 简单模型更容易检查，不代表复杂模型不必要。目标是找到足以解释证据的最小结构，而不是把世界强行缩成口号。
+
+> **真正的问题不是系统是否复杂，而是哪一种复杂值得建模。**
 
 ## Research Corner · 涌现是真跳变，还是测量方式？
 

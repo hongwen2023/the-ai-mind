@@ -5,7 +5,7 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 2 Draft v1.0 editorial review
+**Current chapter:** Chapter 3 Design Brief
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Design first, draft second, review always.
 
@@ -22,9 +22,9 @@ Chapter 1: Complete v1.0
   ↓
 Chapter 2: Design Brief Approved
   ↓
-Chapter 2: Author Draft v1.0
+Chapter 2: Canonical v1.0
   ↓
-ChatGPT: Editorial Review
+Chapter 3: Design Brief
 ```
 
 ## Chapter Status
@@ -33,7 +33,7 @@ ChatGPT: Editorial Review
 |---:|---|---|
 | Prelude | 为什么学习 AI 需要一张地图？ | Complete v1.0; approved and canonical |
 | 01 | 为什么理解比记忆重要？ | Complete v1.0; approved, canonical, Learning Package complete |
-| 02 | 为什么复杂系统可以来自简单规则？ | Design Brief approved; Draft v1.0 and Learning Package complete; awaiting review |
+| 02 | 为什么复杂系统可以来自简单规则？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 03-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
@@ -76,10 +76,11 @@ ChatGPT: Editorial Review
 | Chapter 01 Design | `reviews/book1/chapter01_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 01 Draft | `reviews/book1/chapter01_review.md` | Approved with Minor Revision | v1.1 polish complete; frozen as canonical v1.0 |
 | Chapter 02 Design | `reviews/book1/chapter02_design_review.md` | Approved | Draft v1.0 complete |
+| Chapter 02 Draft | `reviews/book1/chapter02_review.md` | Approved with Very Minor Revision | Final polish complete; canonical v1.0 |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Review `books/book-1-discovering-intelligence/chapters/chapter-02.md` against the approved Design Brief and Golden Chapter Standard. Save the review as `reviews/book1/chapter02_review.md` before revision begins.
+Create `books/book-1-discovering-intelligence/designs/chapter3_design_brief.md`. Do not draft Chapter 3 until the Editor-in-Chief approves the Design Brief.
