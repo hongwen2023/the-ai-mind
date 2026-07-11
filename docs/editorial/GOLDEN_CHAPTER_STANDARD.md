@@ -1,6 +1,7 @@
 # Golden Chapter Standard
 
-**Reference:** Book I Prelude · Complete v1.0  
+**Reference:** Book I Prelude · Complete v1.0
+
 **Purpose:** Capture the editorial lessons demonstrated by the approved
 Prelude so Chapters 1-30 can reproduce its quality without copying its
 surface structure.
