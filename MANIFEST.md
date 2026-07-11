@@ -81,7 +81,8 @@ Chapter 8: canonical v1.0
   → Chapter 9: canonical v1.0
   → Chapter 10: canonical v1.0
   → Act I: canonical Chapters 1-10
-  → Chapter 11: Design Brief
+  → Chapter 11: Design Brief complete
+  → Chapter 11: awaiting editorial review
 ```
 
 ## Constitution Summary
@@ -169,7 +170,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Create the Chapter 11 Design Brief around why vectors preserve multiple
-attributes and their relationships better than a single scalar. Treat the
-existing Chapter 11 as source material, not canonical structure. Do not draft
-Chapter 11 before design approval.
+Ask the Editor-in-Chief to review
+`books/book-1-discovering-intelligence/designs/chapter11_design_brief.md`.
+Save the decision as `reviews/book1/chapter11_design_review.md`. Do not draft
+Chapter 11 until the Design Brief is approved.
