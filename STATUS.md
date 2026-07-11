@@ -5,7 +5,7 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 2 Design Brief
+**Current chapter:** Chapter 2 Design Brief review
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Design first, draft second, review always.
 
@@ -20,7 +20,7 @@ Chapter 1: Design Brief Approved
   ↓
 Chapter 1: Complete v1.0
   ↓
-Chapter 2: Design Brief
+Chapter 2: Design Brief Draft v0.1
   ↓
 ChatGPT: Design Review
 ```
@@ -31,7 +31,7 @@ ChatGPT: Design Review
 |---:|---|---|
 | Prelude | 为什么学习 AI 需要一张地图？ | Complete v1.0; approved and canonical |
 | 01 | 为什么理解比记忆重要？ | Complete v1.0; approved, canonical, Learning Package complete |
-| 02 | 为什么复杂系统可以来自简单规则？ | Design Brief next |
+| 02 | 为什么复杂系统可以来自简单规则？ | Design Brief Draft v0.1; awaiting review |
 | 03-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
@@ -79,4 +79,4 @@ The Chapter 16 review remains active project history. Its revision is paused whi
 
 ## Next Action
 
-Create `books/book-1-discovering-intelligence/designs/chapter2_design_brief.md` for “为什么复杂系统可以来自简单规则？”. Submit the Design Brief for review before drafting Chapter 2 prose.
+Review `books/book-1-discovering-intelligence/designs/chapter2_design_brief.md` against the Golden Chapter Standard. Do not begin Chapter 2 prose before Design Review approval.
