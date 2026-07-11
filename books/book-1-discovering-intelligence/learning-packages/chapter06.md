@@ -34,6 +34,10 @@ After:  learning = feedback-driven retained change
         + evidence of improved future behavior.
 ```
 
+Update count is not the evidence standard. The learner must show that future
+decisions improve under a stated criterion and then reserve unseen experience
+for Chapter 7's generalization test.
+
 ## Capability Milestone
 
 - [ ] **Explain** Learning versus Execution, Memory, and random change.

@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting Editor-in-Chief review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -439,6 +439,10 @@ learned behavior
 
 更强测试：在固定评价集与变化环境中分别监控，检查灾难性遗忘与反馈循环。
 
+### “更新次数很多，所以学习质量更高”
+
+更强测试：比较未见经验上的行为、更新稳定性与目标一致性，而不是只数 Steps 或 Epochs。重复错误反馈只会让系统更熟练地学错。
+
 ## Failure Modes · 学习闭环怎样稳定学错？
 
 ### No Signal
@@ -571,6 +575,8 @@ Learning
 
 > **学习不是积累过去，而是让被评价、被归因并被保留的反馈改变未来行为；系统学到什么，由经验、目标与更新路径共同决定。**
 
+> **真正的学习不是更新参数，而是更新未来决策。**
+
 ## Bridge to Chapter 7
 
 学习器可以把训练样本的误差降到很低，也可以把每个答案逐项保存。两种方法都可能让已见案例表现变好。
@@ -580,6 +586,8 @@ Learning
 > **改变后的规则是否适用于没有见过的新情况？**
 
 如果学习改变了规则，我们怎样判断它学到的是可迁移关系，而不是训练经验的索引？
+
+> **如果学习已经改变了规则，我们怎样判断它学到的是普遍规律，而不是训练经验本身？**
 
 这就是 Generalization 要解决的问题。
 
