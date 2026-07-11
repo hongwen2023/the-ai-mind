@@ -35,7 +35,13 @@
 | Invariant | 不变量 | 内部实现改变时仍必须保持成立的关系或承诺 | Chapter 03 |
 | Equivalence Class | 等价类 | 在某个抽象和任务下被视为相同的一组具体状态 | Chapter 03 |
 | Abstraction Leakage | 抽象泄漏 | 被隐藏的实现细节穿过接口并迫使调用者依赖内部结构 | Chapter 03 |
-| Representation | 表示 | 把现实对象转换成模型可以处理的形式 | Chapter 04 |
+| Representation | 表示 | 把观察编码成可计算形式，并由此定义系统可见的差异、几何与操作 | Chapter 04 |
+| Observation | 观察 | 现实通过传感器、记录或采样进入系统的部分 | Chapter 04 |
+| Encoding | 编码 | 把观察写成符号、类别、数字或其他结构的规则 | Chapter 04 |
+| Representation Geometry | 表示几何 | 一个表示赋予对象的距离、邻近与方向关系 | Chapter 04 |
+| Representation Collision | 表示碰撞 | 两个任务相关的不同观察被编码成同一表示 | Chapter 04 |
+| One-hot Encoding | 独热编码 | 用一个激活位置和其余零位置区分离散类别的表示方法 | Chapter 04 |
+| Cyclical Encoding | 周期编码 | 把周期变量映射到圆上以保留首尾邻近关系的表示方法 | Chapter 04 |
 | Vector | 向量 | 对象在多维属性空间中的表示 | Chapter 11 |
 | Matrix | 矩阵 | 描述空间或表示如何变化的规则 | Chapter 12 |
 | Linear Transformation | 线性变换 | 用结构化、可组合的方式把一种表示变成另一种表示 | Chapter 13 |

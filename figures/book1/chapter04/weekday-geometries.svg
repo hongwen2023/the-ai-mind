@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="680" viewBox="0 0 1280 680" role="img" aria-labelledby="title desc">
+  <title id="title">Three representation geometries for the same week</title>
+  <desc id="desc">Ordinal, one-hot, and cyclical encodings give weekdays different distance relationships.</desc>
+  <rect width="1280" height="680" fill="#f7f8f5"/>
+  <style>
+    text { font-family: Arial, "Microsoft YaHei", sans-serif; fill: #17211d; }
+    .title { font-size: 32px; font-weight: 700; }
+    .label { font-size: 22px; font-weight: 700; }
+    .body { font-size: 17px; }
+    .panel { fill: #fff; stroke: #29463a; stroke-width: 2; rx: 6; }
+    .axis { stroke: #526a60; stroke-width: 3; fill: none; }
+    .dot { fill: #2c6b52; }
+    .hot { fill: #a44732; }
+  </style>
+  <text x="640" y="52" text-anchor="middle" class="title">同一个星期，三种表示几何</text>
+  <rect x="35" y="95" width="380" height="490" class="panel"/>
+  <text x="225" y="140" text-anchor="middle" class="label">Ordinal · 直线</text>
+  <line x1="85" y1="300" x2="365" y2="300" class="axis"/>
+  <g class="body"><circle cx="90" cy="300" r="8" class="dot"/><text x="90" y="340" text-anchor="middle">Mon 0</text><circle cx="135" cy="300" r="7" class="dot"/><circle cx="180" cy="300" r="7" class="dot"/><circle cx="225" cy="300" r="7" class="dot"/><circle cx="270" cy="300" r="7" class="dot"/><circle cx="315" cy="300" r="7" class="dot"/><circle cx="360" cy="300" r="8" class="hot"/><text x="360" y="340" text-anchor="middle">Sun 6</text></g>
+  <text x="225" y="430" text-anchor="middle" class="body">保留顺序，破坏周期邻近</text>
+  <rect x="450" y="95" width="380" height="490" class="panel"/>
+  <text x="640" y="140" text-anchor="middle" class="label">One-hot · 独立盒子</text>
+  <g class="body"><rect x="500" y="245" width="34" height="34" fill="#2c6b52"/><rect x="544" y="245" width="34" height="34" fill="#dcebe4"/><rect x="588" y="245" width="34" height="34" fill="#dcebe4"/><rect x="632" y="245" width="34" height="34" fill="#dcebe4"/><rect x="676" y="245" width="34" height="34" fill="#dcebe4"/><rect x="720" y="245" width="34" height="34" fill="#dcebe4"/><rect x="764" y="245" width="34" height="34" fill="#a44732"/><text x="640" y="330" text-anchor="middle">所有不同日期距离相同</text></g>
+  <text x="640" y="430" text-anchor="middle" class="body">保留类别区分，不表达周期</text>
+  <rect x="865" y="95" width="380" height="490" class="panel"/>
+  <text x="1055" y="140" text-anchor="middle" class="label">Cyclical · 圆</text>
+  <circle cx="1055" cy="310" r="125" class="axis"/>
+  <g class="body"><circle cx="1055" cy="185" r="8" class="dot"/><text x="1055" y="172" text-anchor="middle">Mon</text><circle cx="1153" cy="232" r="7" class="dot"/><text x="1174" y="226">Tue</text><circle cx="1177" cy="338" r="7" class="dot"/><circle cx="1109" cy="423" r="7" class="dot"/><circle cx="1001" cy="423" r="7" class="dot"/><circle cx="933" cy="338" r="7" class="dot"/><circle cx="957" cy="232" r="8" class="hot"/><text x="925" y="226">Sun</text></g>
+  <text x="1055" y="485" text-anchor="middle" class="body">保留周期邻近</text>
+  <text x="640" y="630" text-anchor="middle" class="label">对象没有改变，表示改变了“接近”的含义</text>
+</svg>

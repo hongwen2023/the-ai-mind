@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="650" viewBox="0 0 1280 650" role="img" aria-labelledby="title desc">
+  <title id="title">Reality becomes a model-visible representation through several boundaries</title>
+  <desc id="desc">Reality passes through observation, encoding, and representation before reaching a model; each boundary can lose information.</desc>
+  <rect width="1280" height="650" fill="#f7f8f5"/>
+  <style>
+    text { font-family: Arial, "Microsoft YaHei", sans-serif; fill: #17211d; }
+    .title { font-size: 32px; font-weight: 700; }
+    .label { font-size: 22px; font-weight: 700; }
+    .body { font-size: 17px; }
+    .box { fill: #fff; stroke: #29463a; stroke-width: 2; rx: 6; }
+    .active { fill: #dcebe4; }
+    .warn { fill: #efe2d8; stroke: #8a5a44; stroke-width: 2; rx: 6; }
+    .line { stroke: #486157; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#486157"/></marker></defs>
+  <text x="640" y="55" text-anchor="middle" class="title">Reality → Model-Visible World</text>
+  <rect x="40" y="170" width="190" height="125" class="box"/><text x="135" y="220" text-anchor="middle" class="label">Reality</text><text x="135" y="255" text-anchor="middle" class="body">完整物理与社会过程</text>
+  <path d="M230 232 L285 232" class="line"/>
+  <rect x="285" y="170" width="190" height="125" class="box active"/><text x="380" y="220" text-anchor="middle" class="label">Observation</text><text x="380" y="255" text-anchor="middle" class="body">传感器、记录、采样</text>
+  <path d="M475 232 L530 232" class="line"/>
+  <rect x="530" y="170" width="190" height="125" class="box active"/><text x="625" y="220" text-anchor="middle" class="label">Encoding</text><text x="625" y="255" text-anchor="middle" class="body">单位、类别、缺失规则</text>
+  <path d="M720 232 L775 232" class="line"/>
+  <rect x="775" y="170" width="190" height="125" class="box active"/><text x="870" y="220" text-anchor="middle" class="label">Representation</text><text x="870" y="255" text-anchor="middle" class="body">区分、几何、操作</text>
+  <path d="M965 232 L1020 232" class="line"/>
+  <rect x="1020" y="170" width="210" height="125" class="box"/><text x="1125" y="220" text-anchor="middle" class="label">Model</text><text x="1125" y="255" text-anchor="middle" class="body">只处理收到的表示</text>
+  <rect x="255" y="390" width="250" height="105" class="warn"/><text x="380" y="430" text-anchor="middle" class="label">Observation loss</text><text x="380" y="466" text-anchor="middle" class="body">没有测量、采样过稀</text>
+  <rect x="500" y="390" width="250" height="105" class="warn"/><text x="625" y="430" text-anchor="middle" class="label">Encoding loss</text><text x="625" y="466" text-anchor="middle" class="body">量化、压缩、missing = 0</text>
+  <rect x="745" y="390" width="250" height="105" class="warn"/><text x="870" y="430" text-anchor="middle" class="label">Geometry error</text><text x="870" y="466" text-anchor="middle" class="body">错误距离与邻近关系</text>
+  <text x="640" y="575" text-anchor="middle" class="label">模型无法直接使用表示边界之前已经丢失的区别</text>
+</svg>
