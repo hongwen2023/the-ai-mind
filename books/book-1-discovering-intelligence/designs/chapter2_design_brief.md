@@ -6,7 +6,7 @@
 
 **Author:** Codex
 
-**Status:** Draft v0.1 · Awaiting Editorial Review
+**Status:** Approved for Draft v1.0
 
 **Source:** Historical Journey 02 provides the seed idea only; claims,
 structure, examples, and prose will be rewritten.
@@ -275,3 +275,8 @@ After completing the Learning Package, the learner can:
 3. 元胞自动机是否是合适的数学与 Notebook 锚点？
 4. 神经网络与市场迁移是否保持正确边界，未过度类比？
 5. Emergence 的研究问题是否准确且没有预支 Scaling Laws 章节？
+
+## Editorial Approval
+
+Approved in `reviews/book1/chapter02_design_review.md`. Full Draft v1.0 may
+proceed without expanding the approved scope.
