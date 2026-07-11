@@ -5,22 +5,22 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 1 rewrite
+**Current chapter:** Chapter 1 Design Brief review
 **Last structural freeze:** v1.0 architecture frozen
-**Editorial principle:** Complete first, refine second.
+**Editorial principle:** Design first, draft second, review always.
 
 ## Current Focus
 
 ```text
 Prelude: Complete v1.0
   ↓
-Chapter 1: Codex Author Draft
+Golden Chapter Standard
   ↓
-ChatGPT: Editorial Review
+Chapter 1: Design Brief
   ↓
-Codex: Revision
+ChatGPT: Design Review
   ↓
-Approval
+Chapter 1: Author Draft
 ```
 
 ## Chapter Status
@@ -28,7 +28,8 @@ Approval
 | Chapter | Topic | Status |
 |---:|---|---|
 | Prelude | 为什么学习 AI 需要一张地图？ | Complete v1.0; approved and canonical |
-| 01-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
+| 01 | 为什么理解比记忆重要？ | Design Brief Draft v0.1; awaiting review |
+| 02-10 | AI 思维与数学语言 | Historical drafts retained as source material; rewrite planned |
 | 11 | 向量 | Material merged; needs full editorial pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
 | 13 | 线性变换 | Complete v1.0 |
@@ -73,4 +74,4 @@ The Chapter 16 review remains active project history. Its revision is paused whi
 
 ## Next Action
 
-Draft `books/book-1-discovering-intelligence/chapters/chapter-01.md` by rewriting from the historical Journey 01 source material. Use the Prelude as the quality baseline, then submit the draft for independent editorial review.
+Review `books/book-1-discovering-intelligence/designs/chapter1_design_brief.md`. After approval, draft Chapter 1 using `docs/editorial/GOLDEN_CHAPTER_STANDARD.md` as the quality baseline.

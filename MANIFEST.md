@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 1 rewrite |
-| Last completed content | Prelude complete v1.0 |
+| Current chapter | Chapter 1 Design Brief review |
+| Last completed content | Golden Chapter Standard and Chapter 1 Design Brief |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -53,7 +53,11 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 ```text
 Prelude: complete v1.0
   ↓
-Chapter 1: rewrite from source material
+Chapter 1: Design Brief
+  ↓
+Design Brief review
+  ↓
+Author draft
   ↓
 Editorial review
   ↓
@@ -147,8 +151,8 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Draft `books/book-1-discovering-intelligence/chapters/chapter-01.md` from the historical Journey 01 source material:
+Review `books/book-1-discovering-intelligence/designs/chapter1_design_brief.md`:
 
-> Chapter 1: 为什么理解比记忆重要？
+> Chapter 1 Design Brief: 为什么理解比记忆重要？
 
-Apply the Prelude quality baseline and submit the author draft for independent editorial review.
+After editorial approval, draft the full chapter using the Golden Chapter Standard.
