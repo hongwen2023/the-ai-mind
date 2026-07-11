@@ -12,6 +12,8 @@
 ## Current Focus
 
 ```text
+Chapter 16: Editorial Review / Revision Pilot
+  ↓
 Chapter 18: Chain Rule
   ↓
 Chapter 19: Backpropagation
@@ -29,7 +31,7 @@ Chapter 20: Book I Act II Review
 | 13 | 线性变换 | Complete v1.0 |
 | 14 | 非线性 | Complete v1.0 |
 | 15 | 梯度 | Complete v1.0 |
-| 16 | 损失函数 | Complete v1.0 |
+| 16 | 损失函数 | Reviewed; Major Revision |
 | 17 | 优化 | Complete v1.0 |
 | 18 | 链式法则 | Next |
 | 19 | 反向传播 | Planned |
@@ -55,6 +57,12 @@ Chapter 20: Book I Act II Review
 | docs/operations | Present |
 | reviews | Present |
 
+## Editorial Pipeline
+
+| Chapter | Review | Decision | Revision |
+|---:|---|---|---|
+| 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
+
 ## Next Action
 
-Complete `books/book-1-discovering-intelligence/chapters/chapter-18.md`, then update this file and continue to Chapter 19.
+Revise `books/book-1-discovering-intelligence/chapters/chapter-16.md` to v1.1 according to `reviews/book1/chapter16_review.md`, then update `reviews/book1/chapter16_revision_log.md`.
