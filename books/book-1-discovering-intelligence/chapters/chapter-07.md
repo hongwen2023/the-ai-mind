@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting Editor-in-Chief review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -305,6 +305,10 @@ train through time t
 
 更强测试：重复采样并报告不确定性。
 
+### “更多测试集，所以证据更强”
+
+更强测试：检查这些测试是否真正独立于模型、Prompt、阈值和特征选择。反复查看许多测试集并据此修改系统，会把它们逐渐变成隐性训练反馈。
+
 ## Failure Modes
 
 - **Memorization:** 轻微变化即失败；
@@ -380,6 +384,8 @@ Generalization claim
 
 > **泛化不是一句“模型会举一反三”的赞美，而是一项必须说明未见边界、环境变化、评价标准与不确定性的证据主张。**
 
+> **泛化的边界不是限制模型，而是限制我们对模型能力的过度解释。**
+
 ## Bridge to Chapter 8
 
 一个模型在新环境失败，可能因为表示丢失信息、训练覆盖不足、模型利用 Shortcut、Metric 错误或环境改变。
@@ -389,6 +395,8 @@ Generalization claim
 > **面对同一个失败，我们怎样提出“为什么”，并设计证据区分这些解释？**
 
 研究真正开始于：同一个现象可能有多种解释。
+
+> **研究的第一步不是寻找答案，而是设计能够区分解释的证据。**
 
 Chapter 8：**为什么研究总是从“为什么”开始？**
 

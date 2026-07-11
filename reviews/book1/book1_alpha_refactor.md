@@ -72,6 +72,13 @@ that later book-level consistency work is forbidden.
 - [x] Mental Model Upgrade included.
 - [ ] Recheck Learning / Credit / Retention terminology against Chapters 7 and 15–19.
 
+### Chapter 7
+
+- [x] Book I Question included.
+- [x] Knowledge Graph · Dependency Card included.
+- [x] Mental Model Upgrade included.
+- [ ] Recheck Generalization / Shift / Evidence terminology against Chapters 8–9 and Part III.
+
 ## Alpha Consistency Checklist
 
 - [ ] Book I Question appears consistently and advances the hidden spine.

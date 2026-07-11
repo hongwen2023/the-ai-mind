@@ -32,6 +32,9 @@ After:  generalization claim = independent boundary + specified shift
         + relevant metric + uncertainty + failure analysis.
 ```
 
+More test sets do not automatically strengthen evidence. Independence is lost
+when repeated evaluation guides model, prompt, feature, or threshold choices.
+
 ## Capability Milestone
 
 - [ ] **Explain** Memorization, Shortcut, and bounded Generalization.
