@@ -14,3 +14,8 @@
 | Loss Function | 损失函数 | 把模型预测与目标之间的差距变成可优化的数字 | Chapter 16 |
 | Cross Entropy | 交叉熵 | 衡量模型给正确类别分配的概率是否足够高 | Chapter 16 |
 | Mean Squared Error | 均方误差 | 用平方误差衡量数值预测偏离目标的程度 | Chapter 16 |
+| Optimization | 优化 | 使用梯度和更新策略逐步降低目标函数的过程 | Chapter 17 |
+| Learning Rate | 学习率 | 控制每次参数更新步幅大小的超参数 | Chapter 17 |
+| Stochastic Gradient Descent | 随机梯度下降 | 用小批量样本估计梯度并更新参数的优化方法 | Chapter 17 |
+| Momentum | 动量 | 让优化器利用过去更新方向以减少震荡和加速下降的机制 | Chapter 17 |
+| Adam | Adam 优化器 | 结合动量和自适应步幅的常用深度学习优化器 | Chapter 17 |

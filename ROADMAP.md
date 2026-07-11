@@ -8,8 +8,8 @@
 - [x] Chapter 00–10：思维与数学语言初稿
 - [x] Chapter 11–15：核心素材与草稿
 - [ ] Chapter 11–15：完整技术编辑版
-- [ ] Chapter 16：损失函数
-- [ ] Chapter 17：优化
+- [x] Chapter 16：损失函数
+- [x] Chapter 17：优化
 - [ ] Chapter 18：链式法则
 - [ ] Chapter 19：反向传播
 - [ ] Chapter 20：第二幕复盘

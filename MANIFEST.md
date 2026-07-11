@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Sprint 1 · Book I Act II |
-| Current chapter | Chapter 17 |
-| Last completed content | Chapter 16 complete v1.0 |
+| Current chapter | Chapter 18 |
+| Last completed content | Chapter 17 complete v1.0 |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -153,8 +153,8 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Complete `books/book-1-discovering-intelligence/chapters/chapter-17.md`:
+Complete `books/book-1-discovering-intelligence/chapters/chapter-18.md`:
 
-> Chapter 17: 为什么优化能够让模型越来越好？
+> Chapter 18: 为什么链式法则是深度学习的核心？
 
-Then update `STATUS.md` and continue to Chapter 18.
+Then update `STATUS.md` and continue to Chapter 19.
