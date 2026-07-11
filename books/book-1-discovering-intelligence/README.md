@@ -18,4 +18,5 @@
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
 - [Chapter 14：为什么非线性能够创造复杂表达？](chapters/chapter-14.md)
 - [Chapter 15：为什么梯度能够告诉机器如何学习？](chapters/chapter-15.md)
-- Chapter 16–30 — Planned
+- [Chapter 16：为什么需要损失函数（Loss Function）？](chapters/chapter-16.md)
+- Chapter 17–30 — Planned

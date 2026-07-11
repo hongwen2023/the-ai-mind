@@ -5,15 +5,13 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Sprint 1 · Book I Act II
-**Current chapter:** Chapter 16
+**Current chapter:** Chapter 17
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Complete first, refine second.
 
 ## Current Focus
 
 ```text
-Chapter 16: Loss Function
-  ↓
 Chapter 17: Optimization
   ↓
 Chapter 18: Chain Rule
@@ -33,8 +31,8 @@ Chapter 20: Book I Act II Review
 | 13 | 线性变换 | Material merged; needs full editorial pass |
 | 14 | 非线性 | Material merged; needs full editorial pass |
 | 15 | 梯度 | Draft material exists; needs canonical chapter |
-| 16 | 损失函数 | Next |
-| 17 | 优化 | Planned |
+| 16 | 损失函数 | Complete v1.0 |
+| 17 | 优化 | Next |
 | 18 | 链式法则 | Planned |
 | 19 | 反向传播 | Planned |
 | 20 | 第二幕复盘 | Planned |
@@ -54,4 +52,4 @@ Chapter 20: Book I Act II Review
 
 ## Next Action
 
-Complete `books/book-1-discovering-intelligence/chapters/chapter-16.md`, then update this file and continue to Chapter 17.
+Complete `books/book-1-discovering-intelligence/chapters/chapter-17.md`, then update this file and continue to Chapter 18.
