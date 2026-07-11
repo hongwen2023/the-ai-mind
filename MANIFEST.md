@@ -78,7 +78,8 @@ Chapter 7: Design Brief
 Chapter 7: canonical v1.0
   ↓
 Chapter 8: canonical v1.0
-  → Chapter 9: Design Brief
+  → Chapter 9: Design Brief complete
+  → Chapter 9: awaiting editorial review
 ```
 
 ## Constitution Summary
@@ -166,6 +167,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Create the Chapter 9 Design Brief as a Book I-level Understanding Audit. It
-must reconstruct the relationship map from Chapters 1-8 rather than introduce
-a new concept. Do not draft Chapter 9 until the Design Brief is approved.
+Ask the Editor-in-Chief to review
+`books/book-1-discovering-intelligence/designs/chapter9_design_brief.md`.
+Save the decision as `reviews/book1/chapter09_design_review.md`. Do not draft
+Chapter 9 until the Design Brief is approved.
