@@ -2,11 +2,11 @@
 
 **Book:** The AI Mind · Book I · Discovering Intelligence
 
-**Version:** Draft v1.0
+**Version:** Canonical v1.0
 
 **Author:** Codex
 
-**Editorial status:** Awaiting editorial review
+**Editorial status:** Approved and canonical; pending Book I Alpha consistency pass
 
 ---
 
@@ -358,6 +358,10 @@ Lab 改变 Feature Scale、Missing Value、Threshold 与 Representation。目标
 
 更强检验：审计 Object、Metric、Threshold 与 Error Cost 的选择者和后果。
 
+### “形式化完成，所以问题已经被解决”
+
+更强检验：重新审计 Object、Metric、Assumption 与 Boundary。形式化让问题可见、可检验，不保证选择正确。
+
 ## Failure Modes
 
 - **Undefined Object:** 符号没有清楚现实对象；
@@ -442,6 +446,8 @@ Mathematics = precise objects
 
 若把所有属性压成一个 Score，许多关系会在计算前消失。
 
+> **单个数字压缩属性，而向量保留属性之间的位置关系。**
+
 > **当一个对象同时拥有多个属性时，我们需要怎样的数学对象来保存它们的位置、方向和关系？**
 
 Chapter 11：**为什么向量比数字更适合描述世界？**
@@ -452,4 +458,3 @@ Chapter 11：**为什么向量比数字更适合描述世界？**
 
 - [Manheim & Garrabrant (2018), *Categorizing Variants of Goodhart's Law*](https://arxiv.org/abs/1803.04585)
 - [D'Amour et al. (2020), *Underspecification Presents Challenges for Credibility in Modern Machine Learning*](https://arxiv.org/abs/2011.03395)
-

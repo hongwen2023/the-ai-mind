@@ -31,10 +31,11 @@ After:  mathematics = explicit relationships + assumptions
         + operations + consequences + testable boundaries.
 ```
 
+形式化完成不等于问题已经解决。它只是让 Object、Metric、Assumption 与 Boundary 可以被明确审计。
+
 ## Capability Milestone
 
 - [ ] **Explain** Formula、Assumption、Derivation 与 Evidence；
 - [ ] **Predict** Unit、Limit 与 Perturbation 后果；
 - [ ] **Build** 从模糊主张到 Executable Contract 的翻译；
 - [ ] **Read** Hidden Assumption、Proxy 与 Boundary Failure。
-

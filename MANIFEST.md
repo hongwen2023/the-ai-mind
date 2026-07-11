@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 10 Draft v1.0 editorial review |
-| Last completed content | Chapter 10 Author Draft v1.0 and Learning Package |
+| Current chapter | Chapter 11 Design Brief |
+| Last completed content | Chapter 10 canonical v1.0 and Learning Package; Act I canonical |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -79,9 +79,9 @@ Chapter 7: canonical v1.0
   ↓
 Chapter 8: canonical v1.0
   → Chapter 9: canonical v1.0
-  → Chapter 10: Design Brief approved
-  → Chapter 10: Author Draft v1.0
-  → Chapter 10: awaiting editorial review
+  → Chapter 10: canonical v1.0
+  → Act I: canonical Chapters 1-10
+  → Chapter 11: Design Brief
 ```
 
 ## Constitution Summary
@@ -169,7 +169,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Ask the Editor-in-Chief to review Chapter 10 Draft v1.0, its Learning Package,
-Notebook, figure, and Understanding Audit. Save the decision as
-`reviews/book1/chapter10_review.md`. Do not mark Chapter 10 canonical until the
-editorial decision and required revision are complete.
+Create the Chapter 11 Design Brief around why vectors preserve multiple
+attributes and their relationships better than a single scalar. Treat the
+existing Chapter 11 as source material, not canonical structure. Do not draft
+Chapter 11 before design approval.
