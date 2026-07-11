@@ -76,7 +76,9 @@ and reconnect these ideas rather than merely repeat their first definitions.
   - [Chapter 01 Learning Package](learning-packages/chapter01.md)
 - [Chapter 02：为什么复杂系统可以来自简单规则？](chapters/chapter-02.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 02 Learning Package](learning-packages/chapter02.md)
-- Chapter 03–10 — Rewrite from source material; planned
+- Chapter 03：为什么抽象是人类最重要的工具之一？ — Design Brief complete; awaiting editorial review
+  - [Chapter 03 Design Brief](designs/chapter3_design_brief.md)
+- Chapter 04–10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
