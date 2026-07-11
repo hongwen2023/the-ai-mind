@@ -82,7 +82,8 @@ Chapter 8: canonical v1.0
   → Chapter 10: canonical v1.0
   → Act I: canonical Chapters 1-10
   → Chapter 11: canonical v1.0
-  → Chapter 12: Design Brief
+  → Chapter 12: Design Brief complete
+  → Chapter 12: awaiting editorial review
 ```
 
 ## Constitution Summary
@@ -170,7 +171,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Create the Chapter 12 Design Brief around Matrix as a system for transforming
-vector states and coordinating how output dimensions depend on input
-coordinates. Treat existing Chapter 12 as source material, not canonical
-structure. Do not draft Chapter 12 before design approval.
+Ask the Editor-in-Chief to review
+`books/book-1-discovering-intelligence/designs/chapter12_design_brief.md`.
+Save the decision as `reviews/book1/chapter12_design_review.md`. Do not draft
+Chapter 12 until the Design Brief is approved.

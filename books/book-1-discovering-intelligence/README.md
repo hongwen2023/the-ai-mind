@@ -103,7 +103,8 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 11 Design Brief](designs/chapter11_design_brief.md)
   - [Chapter 11 Learning Package](learning-packages/chapter11.md)
-- [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
+- [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md) — Historical merge retained as source material; canonical rewrite awaiting Design Review
+  - [Chapter 12 Design Brief](designs/chapter12_design_brief.md)
 - [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
 - [Chapter 14：为什么非线性能够创造复杂表达？](chapters/chapter-14.md)
 - [Chapter 15：为什么梯度能够告诉机器如何学习？](chapters/chapter-15.md)

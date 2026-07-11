@@ -59,7 +59,8 @@ Chapter 8: Canonical v1.0
   → Chapter 10: Canonical v1.0
   → Act I: Canonical Chapters 1-10
   → Chapter 11: Canonical v1.0
-  → Chapter 12: Design Brief
+  → Chapter 12: Design Brief complete
+  → Chapter 12: awaiting editorial review
 ```
 
 ## Chapter Status
@@ -78,7 +79,7 @@ Chapter 8: Canonical v1.0
 | 09 | 第一幕复盘：构建第一张 AI 思维地图 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 10 | 为什么数学是智能的语言？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 11 | 向量 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
-| 12 | 矩阵 | Material merged; needs full editorial pass |
+| 12 | 矩阵 | Design Brief complete; awaiting editorial review; historical merge retained as source material |
 | 13 | 线性变换 | Complete v1.0 |
 | 14 | 非线性 | Complete v1.0 |
 | 15 | 梯度 | Complete v1.0 |
@@ -137,10 +138,11 @@ Chapter 8: Canonical v1.0
 | Chapter 10 Draft | `reviews/book1/chapter10_review.md` | Approved | Final polish complete; canonical v1.0 |
 | Chapter 11 Design | `reviews/book1/chapter11_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 11 Draft | `reviews/book1/chapter11_review.md` | Approved | Final polish complete; canonical v1.0 |
+| Chapter 12 Design | Pending | Awaiting review | Design Brief complete; drafting blocked until approval |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Create the Chapter 12 Design Brief around Matrix as a system for transforming vector states. Treat existing Chapter 12 as source material and do not draft before design approval.
+Review `books/book-1-discovering-intelligence/designs/chapter12_design_brief.md` and save the decision as `reviews/book1/chapter12_design_review.md`. Do not draft Chapter 12 until the Design Brief is approved.
