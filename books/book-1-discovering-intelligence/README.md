@@ -94,8 +94,9 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 08：为什么研究总是从“为什么”开始？](chapters/chapter-08.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 08 Design Brief](designs/chapter8_design_brief.md)
   - [Chapter 08 Learning Package](learning-packages/chapter08.md)
-- Chapter 09 — Design Brief complete; awaiting editorial review
+- [Chapter 09：第一幕复盘——构建第一张 AI 思维地图](chapters/chapter-09.md) — Draft v1.0; awaiting editorial review
   - [Chapter 09 Design Brief](designs/chapter9_design_brief.md)
+  - [Chapter 09 Learning Package](learning-packages/chapter09.md)
 - Chapter 10 — Rewrite from source material; planned
 - [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)
