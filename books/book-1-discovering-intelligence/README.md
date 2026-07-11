@@ -100,7 +100,7 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 10：为什么数学是智能的语言？](chapters/chapter-10.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 10 Design Brief](designs/chapter10_design_brief.md)
   - [Chapter 10 Learning Package](learning-packages/chapter10.md)
-- [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md) — Draft v1.0; awaiting editorial review
+- [Chapter 11：为什么向量比数字更适合描述世界？](chapters/chapter-11.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 11 Design Brief](designs/chapter11_design_brief.md)
   - [Chapter 11 Learning Package](learning-packages/chapter11.md)
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md)

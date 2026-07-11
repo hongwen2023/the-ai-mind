@@ -5,7 +5,7 @@
 **Current version:** v0.1
 **Project stage:** Book I v1.0 drafting
 **Current sprint:** Book I Prelude and Act I rewrite
-**Current chapter:** Chapter 11 Draft v1.0 editorial review
+**Current chapter:** Chapter 12 Design Brief
 **Last structural freeze:** v1.0 architecture frozen
 **Editorial principle:** Design first, draft second, review always.
 
@@ -58,9 +58,8 @@ Chapter 8: Canonical v1.0
   → Chapter 9: Canonical v1.0
   → Chapter 10: Canonical v1.0
   → Act I: Canonical Chapters 1-10
-  → Chapter 11: Design Brief approved
-  → Chapter 11: Author Draft v1.0
-  → Chapter 11: awaiting editorial review
+  → Chapter 11: Canonical v1.0
+  → Chapter 12: Design Brief
 ```
 
 ## Chapter Status
@@ -78,7 +77,7 @@ Chapter 8: Canonical v1.0
 | 08 | 为什么研究总是从“为什么”开始？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 09 | 第一幕复盘：构建第一张 AI 思维地图 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 10 | 为什么数学是智能的语言？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
-| 11 | 向量 | Author Draft v1.0 and Learning Package complete; awaiting editorial review |
+| 11 | 向量 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 12 | 矩阵 | Material merged; needs full editorial pass |
 | 13 | 线性变换 | Complete v1.0 |
 | 14 | 非线性 | Complete v1.0 |
@@ -137,11 +136,11 @@ Chapter 8: Canonical v1.0
 | Chapter 10 Design | `reviews/book1/chapter10_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 10 Draft | `reviews/book1/chapter10_review.md` | Approved | Final polish complete; canonical v1.0 |
 | Chapter 11 Design | `reviews/book1/chapter11_design_review.md` | Approved | Draft v1.0 complete |
-| Chapter 11 Draft | Pending | Awaiting review | Author Draft v1.0 and Learning Package complete |
+| Chapter 11 Draft | `reviews/book1/chapter11_review.md` | Approved | Final polish complete; canonical v1.0 |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Review Chapter 11 Draft v1.0 and its Learning Package, Notebook, figure, and Understanding Audit. Save the decision as `reviews/book1/chapter11_review.md`; do not mark the chapter canonical before revision and approval.
+Create the Chapter 12 Design Brief around Matrix as a system for transforming vector states. Treat existing Chapter 12 as source material and do not draft before design approval.

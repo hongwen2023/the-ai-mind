@@ -31,10 +31,11 @@ After:  vector = ordered coordinates + semantics + scale
         + task geometry + information boundary.
 ```
 
+稳定的 Embedding Geometry 仍然只是特定模型、目标与数据下的表示。稳定不等于现实本身。
+
 ## Capability Milestone
 
 - [ ] **Explain** Coordinate、Geometry 与 Boundary；
 - [ ] **Predict** Scale、Order 与 Metric 改变；
 - [ ] **Build** 版本化 Feature-vector Contract；
 - [ ] **Read** Embedding Similarity 的语义越界。
-
