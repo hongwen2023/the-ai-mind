@@ -60,7 +60,8 @@ Chapter 8: Canonical v1.0
   → Act I: Canonical Chapters 1-10
   → Chapter 11: Canonical v1.0
   → Chapter 12: Canonical v1.0
-  → Chapter 13: Design Brief
+  → Chapter 13: Design Brief complete
+  → Chapter 13: awaiting editorial review
 ```
 
 ## Chapter Status
@@ -80,7 +81,7 @@ Chapter 8: Canonical v1.0
 | 10 | 为什么数学是智能的语言？ | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 11 | 向量 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
 | 12 | 矩阵 | Canonical v1.0; approved; Learning Package complete; pending Book I Alpha consistency pass |
-| 13 | 线性变换 | Complete v1.0 |
+| 13 | 线性变换 | Design Brief complete; awaiting editorial review; historical v1.0 retained as source material |
 | 14 | 非线性 | Complete v1.0 |
 | 15 | 梯度 | Complete v1.0 |
 | 16 | 损失函数 | Reviewed; Major Revision |
@@ -140,10 +141,11 @@ Chapter 8: Canonical v1.0
 | Chapter 11 Draft | `reviews/book1/chapter11_review.md` | Approved | Final polish complete; canonical v1.0 |
 | Chapter 12 Design | `reviews/book1/chapter12_design_review.md` | Approved | Draft v1.0 complete |
 | Chapter 12 Draft | `reviews/book1/chapter12_review.md` | Approved | Final polish complete; canonical v1.0 |
+| Chapter 13 Design | Pending | Awaiting review | Design Brief complete; drafting blocked until approval |
 | 16 | `reviews/book1/chapter16_review.md` | Major Revision | Pending v1.1 |
 
 The Chapter 16 review remains active project history. Its revision is paused while the explicitly approved Prelude and Chapter 1-10 rewrite begins.
 
 ## Next Action
 
-Create the Chapter 13 Design Brief around Linear Transformation, superposition, composition, and failure boundaries. Treat existing Chapter 13 as source material and do not draft before design approval.
+Review `books/book-1-discovering-intelligence/designs/chapter13_design_brief.md` and save the decision as `reviews/book1/chapter13_design_review.md`. Do not draft Chapter 13 until the Design Brief is approved.

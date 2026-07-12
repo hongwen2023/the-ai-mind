@@ -106,7 +106,8 @@ and reconnect these ideas rather than merely repeat their first definitions.
 - [Chapter 12：为什么矩阵能够描述变化？](chapters/chapter-12.md) — Canonical v1.0; pending Book I Alpha consistency pass
   - [Chapter 12 Design Brief](designs/chapter12_design_brief.md)
   - [Chapter 12 Learning Package](learning-packages/chapter12.md)
-- [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md)
+- [Chapter 13：为什么线性变化能够解决复杂问题？](chapters/chapter-13.md) — Historical v1.0 retained as source material; canonical rewrite awaiting Design Review
+  - [Chapter 13 Design Brief](designs/chapter13_design_brief.md)
 - [Chapter 14：为什么非线性能够创造复杂表达？](chapters/chapter-14.md)
 - [Chapter 15：为什么梯度能够告诉机器如何学习？](chapters/chapter-15.md)
 - [Chapter 16：为什么需要损失函数（Loss Function）？](chapters/chapter-16.md)

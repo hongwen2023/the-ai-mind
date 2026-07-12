@@ -83,7 +83,8 @@ Chapter 8: canonical v1.0
   → Act I: canonical Chapters 1-10
   → Chapter 11: canonical v1.0
   → Chapter 12: canonical v1.0
-  → Chapter 13: Design Brief
+  → Chapter 13: Design Brief complete
+  → Chapter 13: awaiting editorial review
 ```
 
 ## Constitution Summary
@@ -171,7 +172,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Create the Chapter 13 Design Brief around what makes a transformation Linear,
-why superposition makes behavior predictable and composable, and where the
-assumption fails. Treat existing Chapter 13 as source material, not canonical
-structure. Do not draft Chapter 13 before design approval.
+Ask the Editor-in-Chief to review
+`books/book-1-discovering-intelligence/designs/chapter13_design_brief.md`.
+Save the decision as `reviews/book1/chapter13_design_review.md`. Do not draft
+Chapter 13 until the Design Brief is approved.
