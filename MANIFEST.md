@@ -43,8 +43,8 @@ The long-term goal is to help a serious learner reach the level of a strong AI m
 | Current stage | Book I v1.0 drafting |
 | Current book | Book I · Discovering Intelligence |
 | Current sprint | Book I Prelude and Act I rewrite |
-| Current chapter | Chapter 12 Draft v1.0 editorial review |
-| Last completed content | Chapter 12 Author Draft v1.0 and Learning Package |
+| Current chapter | Chapter 13 Design Brief |
+| Last completed content | Chapter 12 canonical v1.0 and Learning Package |
 | Architecture | Frozen for v1.0 |
 | Next release target | v0.2 · Book I Chapter 11-20 |
 
@@ -82,9 +82,8 @@ Chapter 8: canonical v1.0
   → Chapter 10: canonical v1.0
   → Act I: canonical Chapters 1-10
   → Chapter 11: canonical v1.0
-  → Chapter 12: Design Brief approved
-  → Chapter 12: Author Draft v1.0
-  → Chapter 12: awaiting editorial review
+  → Chapter 12: canonical v1.0
+  → Chapter 13: Design Brief
 ```
 
 ## Constitution Summary
@@ -172,7 +171,7 @@ Commit after every completed chapter and update STATUS.md.
 
 ## Next Action
 
-Ask the Editor-in-Chief to review Chapter 12 Draft v1.0, its Learning Package,
-Notebook, figure, and Understanding Audit. Save the decision as
-`reviews/book1/chapter12_review.md`. Do not mark Chapter 12 canonical until the
-editorial decision and required revision are complete.
+Create the Chapter 13 Design Brief around what makes a transformation Linear,
+why superposition makes behavior predictable and composable, and where the
+assumption fails. Treat existing Chapter 13 as source material, not canonical
+structure. Do not draft Chapter 13 before design approval.

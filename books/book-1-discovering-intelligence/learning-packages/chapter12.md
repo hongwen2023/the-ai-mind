@@ -31,10 +31,11 @@ After:  matrix = input-output contract + row recipes
         + column influence + shape semantics + ordered composition.
 ```
 
+Transformation Contract 描述关系，不自动证明 Causal Mechanism。二维网格也只是帮助建立 Geometry 直觉，不覆盖全部高维 Matrix。
+
 ## Capability Milestone
 
 - [ ] **Explain** Shape、Rows、Columns 与 Composition；
 - [ ] **Predict** Input Influence 与 Transformation Failure；
 - [ ] **Build** Matrix Transformation Contract；
 - [ ] **Read** Shape Match 下的语义错误。
-
